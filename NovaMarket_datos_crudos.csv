@@ -1,0 +1,621 @@
+id_pedido,id_cliente,fecha_compra,canal,ciudad,codigo_postal,categoria_producto,producto,precio,unidades,edad_cliente,correo,nivel_satisfaccion,fecha_actualizacion_stock
+P00383,C0276,2026-01-03,App,Bucaramanga,68001,Belleza,Camiseta,-1742611,4,-19,c0276gmail.com,alto,2026-07-01
+P00403,C0167,6/12/2026,Web,Cali,76001,Deportes,Cafetera,1828583,2,23,c0167@hotmail.com,MEDIO,2026-07-01
+P00403,C0167,6/12/2026,Web,Cali,76001,Deportes,Cafetera,1828583,2,23,c0167@hotmail.com,MEDIO,2026-07-01
+P00450,C0128,07/09/2026,App,bucaramanga,68001,electronica,Set bloques,787178,6,69,c0128@hotmail.com,MEDIO,2026-07-15
+P00449,C0304,2025-07-19,Tienda,Bogotá,08001,Belleza,Audífonos BT,357231,5,67,c0304@novamarket.co,Bajo,2026-05-20
+P00586,C0096,6/8/2025,App,,11001,Hogar,Audífonos BT,212339,5,70,c0096@hotmail.com,,2026-07-01
+P00517,C0043,13/4/2026,Web,MEDELLIN,05001,deportes,Audífonos BT,1567784,3,44,,Medio,2024-01-15
+P00430,C0186,19/11/2025,App,medellin,05001,Deportes,Cafetera,204637,4,58,c0186@hotmail.com,Bajo,2027-03-01
+P00509,C0223,22/6/2025,Tienda,BOGOTÁ,11001,hogar,Set bloques,1693053,3,44,c0223@gmail.com,ALTO,2026-06-10
+P00160,C0093,17/9/2026,Tienda,CARTAGENA,13001,Belleza,Cafetera,295650,5000,18,c0093@hotmail.com,Medio,2026-07-01
+P00588,C0034,9/10/2025,App,Bogotá,11001,ELECTRONICA,Licuadora,1914618,1,61,c0034@novamarket.co,medio,2026-07-15
+P00545,C0065,19/11/2026,Web,Medellin,05001,Belleza,Perfume,1797411,5,32,c0065@novamarket.co,MEDIO,2026-07-01
+P00424,C0009,2025-09-20,Tienda,CALI,76001,belleza,Muñeca,1043924,5,66,c0009@yahoo.com,ALTO,2026-07-15
+P00416,C0321,10/06/2025,App,Bogota,11001,Belleza,Smart TV,415202,5,56,c0321@novamarket.co,ALTO,2024-06-01
+P00118,C0226,15/11/2027,Tienda,Barranquilla,08001,Belleza,Muñeca,410059,3,41,c0226@hotmail.com,bajo,2026-06-10
+P00248,C0176,06/01/2025,Tienda,Bogota,11001,deportes,Smart TV,606299,6,54,c0176@novamarket.co,MEDIO,2026-07-01
+P00392,C0052,15/2/2026,Tienda,barranquilla,08001,hogar,Licuadora,32172,3,43,c0052@hotmail.com,Alto,2026-07-15
+P00325,C0061,2025-05-10,Web,CARTAGENA,13001,Moda,Zapatillas,307589,3,200,,medio,2024-06-01
+P00273,C0158,2026-11-22,Web,bogota,11001,Moda,Crema facial,1526256,5,67,,ALTO,2026-05-20
+P00161,C0247,2026-01-17,Web,cali,76001,juguetes,Audífonos BT,1613846,4,73,c0247@novamarket.co,ALTO,2026-07-01
+P00555,C0236,27/6/2026,Web,Cartagena,13001,belleza,Muñeca,551858,6,24,c0236@gmail.com,bajo,2026-06-10
+P00153,C0074,20/03/2025,Tienda,cali,76001,MODA,Camiseta,-1591730,3,67,c0074@yahoo.com,ALTO,2026-07-15
+P00368,C0330,21/2/2025,Web,bucaramanga,68001,Electronica,Smartphone,2076928,3,52,c0330@novamarket.co,alto,2026-05-20
+P00415,C0385,2026-08-19,App,CALI,76001,deportes,Camiseta,1691596,6,50,,Alto,2026-06-10
+P00148,C0146,6/11/2025,Web,,11001,Hogar,Muñeca,1699073,4,73,c0146@gmail.com,bajo,2026-05-20
+P00564,C0091,2/9/2025,Web,bucaramanga,68001,hogar,Smartphone,578201,6,46,c0091@gmail.com,Alto,2024-06-01
+P00134,C0272,8/3/2025,Web,cali,76001,Electronica,Muñeca,677320,9999,54,c0272@novamarket.co,alto,2026-06-10
+P00528,C0283,2025-04-16,Tienda,Cali,76001,Electronica,Zapatillas,166250,5,48,c0283@gmail.com,medio,2026-07-01
+P00526,C0332,28/12/2025,Web,medellin,05001,Electrónica,Crema facial,783631,3,64,c0332@novamarket.co,bajo,2026-06-10
+P00264,C0143,17/07/2025,Web,bogota,11001,moda,Mancuernas,2231179,2,200,,Medio,2026-07-01
+P00198,C0310,2026-02-04,App,bucaramanga,68001,MODA,Mancuernas,2414332,2,26,c0310@gmail.com,medio,2026-06-10
+P00410,C0069,2025-07-24,Web,Bogotá,11001,hogar,Cafetera,2090602,4,70,c0069@gmail.com,ALTO,2026-06-10
+P00253,C0313,5/8/2025,App,Barranquilla,08001,Jugueteria,Balón fútbol,1613695,6,20,c0313@novamarket.co,Bajo,2026-05-20
+P00271,C0365,05/06/2026,Web,CARTAGENA,13001,Belleza,Camiseta,305540,5,34,c0365gmail.com,Alto,2026-06-10
+P00269,C0056,2025-01-28,App,MEDELLIN,05001,Hogar,Zapatillas,71385,6,26,c0056@gmail.com,alto,2026-05-20
+P00397,C0165,25/12/2026,Tienda,MEDELLIN,05001,ELECTRONICA,Camiseta,2371596,3,0,c0165@hotmail.com,alto,2026-05-20
+P00412,C0031,3/5/2025,Tienda,Bucaramanga,68001,Hogar,Smartphone,1704560,5,34,c0031@hotmail.com,Alto,2026-07-15
+P00027,C0007,2026-06-28,Web,barranquilla,08001,belleza,Perfume,1097186,6,69,c0007@yahoo.com,Medio,2026-07-15
+P00137,C0194,05/08/2025,App,cali,76001,Belleza,Perfume,988130,-3,38,c0194@hotmail.com,bajo,2026-05-20
+P00344,C0146,07/06/2025,Web,Medellin,05001,MODA,Balón fútbol,502029,3,19,,alto,2026-07-01
+P00465,C0093,15/4/2026,App,Cali,76001,hogar,Camiseta,1003579,6,34,c0093gmail.com,alto,2026-05-20
+P00316,C0319,2027-05-20,Web,MEDELLIN,05001,Deportes,Camiseta,403441,4,49,c0319gmail.com,MEDIO,2026-07-01
+P00571,C0399,24/03/2026,Tienda,barranquilla,08001,Deportes,Perfume,335287,1,25,c0399@gmail.com,ALTO,2026-05-20
+P00397,C0165,25/12/2026,Tienda,MEDELLIN,05001,ELECTRONICA,Camiseta,2371596,3,0,c0165@hotmail.com,alto,2026-05-20
+P00515,C0310,2026-13-05,Tienda,Barranquilla,08001,Deportes,Audífonos BT,1648174,4,58,c0310gmail.com,MEDIO,2026-07-15
+P00168,C0122,18/10/2026,App,CARTAGENA,08001,deportes,Smart TV,791945,1,30,c0122@yahoo.com,bajo,2026-07-01
+P00121,C0162,2026-11-02,App,Medellin,05001,juguetes,Mancuernas,1524869,0,72,c0162@hotmail.com,Medio,2026-06-10
+P00099,C0050,13/02/2025,Tienda,Cartagena,13001,moda,Set bloques,211363,4,62,c0050@gmail.com,medio,2024-01-15
+P00291,C0368,20/5/2026,Tienda,Cartagena,13001,juguetes,Cafetera,536202,6,50,c0368@novamarket.co,Alto,2026-07-01
+P00284,C0149,2026-12-19,Web,Barranquilla,08001,deportes,Camiseta,2496827,1,51,,Alto,2024-01-15
+P00480,C0190,24/5/2025,Web,MEDELLIN,05001,belleza,Zapatillas,2080129,1,72,c0190@yahoo.com,alto,2026-07-01
+P00479,C0051,2025-01-20,Web,CALI,76001,deportes,Balón fútbol,731870,5,32,,bajo,2024-01-15
+P00550,C0244,2025-04-13,App,barranquilla,08001,Electrónica,Set bloques,1396057,6,22,c0244@hotmail.com,ALTO,2026-07-01
+P00129,C0039,2025-03-04,Tienda,Cartagena,13001,hogar,Set bloques,2316214,6,46,,alto,2026-05-20
+P00419,C0318,18/11/2026,Web,Bucaramanga,68001,Juguetería,Camiseta,737292,4,32,c0318@gmail.com,Alto,2026-07-15
+P00227,C0269,10/07/2025,App,bucaramanga,68001,Juguetería,Smartphone,960808,3,60,,medio,2026-07-01
+P00005,C0186,18/11/2025,App,Medellin,05001,Electrónica,Camiseta,412555,5000,56,c0186@gmail.com,alto,2027-03-01
+P00041,C0390,2026-10-22,Web,Bucaramanga,68001,Electrónica,Crema facial,744019,2,44,c0390@hotmail.com,Alto,2026-05-20
+P00073,C0240,27/3/2026,App,Cartagena,13001,moda,Perfume,1204483,4,22,c0240@gmail.com,Alto,2026-07-01
+P00237,C0282,14/02/2025,Web,CALI,76001,MODA,Balón fútbol,192039,3,21,c0282@gmail.com,medio,2026-05-20
+P00411,C0340,14/8/2026,Tienda,Cartagena,13001,Hogar,Camiseta,366075,1,70,c0340@yahoo.com,Bajo,2026-07-01
+P00335,C0099,2026-03-18,Tienda,Bogotá D.C.,11001,Hogar,Cafetera,106438,6,0,c0099@novamarket.co,Alto,2024-01-15
+P00230,C0282,17/5/2026,Tienda,BOGOTÁ,11001,moda,Zapatillas,1318746,9999,48,c0282@novamarket.co,alto,2026-07-15
+P00070,C0039,5/10/2025,Web,bucaramanga,68001,Belleza,Audífonos BT,2123943,-1,33,c0039@yahoo.com,alto,2026-06-10
+P00582,C0347,7/5/2026,Tienda,Barranquilla,08001,Belleza,Muñeca,741488,1,69,c0347@yahoo.com,Bajo,2026-07-01
+P00534,C0024,03/12/2025,App,bucaramanga,68001,Deportes,Set bloques,,1,35,c0024@novamarket.co,ALTO,2026-07-01
+P00087,C0386,2026-06-20,Tienda,CALI,76001,electronica,Muñeca,,1,28,c0386@novamarket.co,Alto,2026-07-15
+P00138,C0086,14/03/2026,Web,Bucaramanga,68001,belleza,Cafetera,674053,1,68,,alto,2026-06-10
+P00369,C0384,2025-04-16,Web,medellin,76001,Deportes,Licuadora,1937753,4,64,,Medio,2026-07-01
+P00343,C0328,19/11/2025,App,Medellin,05001,deportes,Smart TV,949141,1,22,c0328@hotmail.com,,2024-01-15
+P00104,C0293,2026-10-20,Tienda,Cartagena,13001,moda,Set bloques,377648,3,48,c0293@hotmail.com,Alto,2026-07-15
+P00579,C0240,7/6/2026,App,Medellin,05001,juguetes,Zapatillas,142211382,1,18,c0240@novamarket.co,bajo,2026-06-10
+P00266,C0322,22/09/2025,Tienda,bogota,11001,electronica,Smartphone,1749667,5,68,c0322@novamarket.co,Medio,2026-07-15
+P00413,C0317,2026-04-09,Web,Bogota,11001,juguetes,Aspiradora,2044149,3,43,,alto,2026-05-20
+P00541,C0384,14/2/2026,Tienda,CALI,76001,Jugueteria,Cafetera,1279207,0,69,c0384@gmail.com,Medio,2026-07-15
+P00536,C0171,00/00/2026,App,MEDELLIN,05001,Electronica,Licuadora,1035786,4,71,c0171@novamarket.co,alto,2026-07-15
+P00044,C0297,24/05/2026,Web,cali,76001,MODA,Smartphone,513975,3,35,c0297gmail.com,medio,2026-07-01
+P00347,C0107,2026-04-19,Tienda,Medellin,05001,hogar,Smartphone,1434855,3,23,,alto,2026-07-15
+P00081,C0017,16/11/2026,App,Cartagena,13001,Deportes,Smartphone,521671,5,73,c0017@hotmail.com,Alto,2026-05-20
+P00352,C0201,2026-05-07,App,Bogotá D.C.,11001,MODA,Cafetera,2238438,1,-20,c0201@hotmail.com,Medio,2026-05-20
+P00158,C0371,2025-01-28,Tienda,Bucaramanga,68001,deportes,Set bloques,139449,1,41,c0371@gmail.com,Alto,2026-07-15
+P00485,C0218,20/3/2026,App,barranquilla,08001,Belleza,Crema facial,2049034,4,74,c0218gmail.com,,2026-07-15
+P00303,C0318,2026-03-09,App,barranquilla,08001,HOGAR,Audífonos BT,460740,4,74,,Alto,2026-05-20
+P00460,C0397,15/11/2027,Web,B/quilla,05001,belleza,Balón fútbol,1432370,3,75,,Medio,2026-07-01
+P00499,C0020,27/6/2025,Web,Cali,76001,Belleza,Aspiradora,220819,9999,38,c0020@hotmail.com,alto,2026-07-01
+P00177,C0162,2026-09-04,App,,08001,HOGAR,Perfume,1098768,2,39,c0162@novamarket.co,Medio,2026-07-01
+P00429,C0096,05/02/2025,Tienda,Medellin,05001,HOGAR,Smart TV,1929423,3,27,c0096@gmail.com,Alto,2023-11-30
+P00216,C0281,11/7/2026,Web,barranquilla,08001,Belleza,Smart TV,1210092,4,30,c0281@hotmail.com,Medio,2027-03-01
+P00570,C0124,2026-07-23,Tienda,bucaramanga,68001,hogar,Aspiradora,126221,2,34,c0124@novamarket.co,ALTO,2026-07-01
+P00119,C0361,11/02/2025,Tienda,Bogotá,68001,HOGAR,Muñeca,38078,1,45,c0361@hotmail.com,Alto,2026-07-01
+P00567,C0097,2025-08-25,App,Barranquilla,08001,Deportes,Aspiradora,241019,5,62,c0097@hotmail.com,ALTO,2026-07-15
+P00125,C0255,02/04/2025,Web,B/quilla,08001,Juguetería,Crema facial,648963,5,25,c0255@gmail.com,Alto,2026-06-10
+P00010,C0237,06/01/2026,App,Medellín,05001,Juguetería,Audífonos BT,2498217,1,72,c0237@yahoo.com,,2026-07-15
+P00133,C0032,11/1/2025,App,BOGOTÁ,11001,Belleza,Muñeca,1990193,6,52,c0032@novamarket.co,MEDIO,2023-11-30
+P00359,C0349,2026-02-08,Web,Bucaramanga,68001,Belleza,Perfume,124371,3,58,c0349gmail.com,alto,2026-07-15
+P00540,C0064,2025-03-25,Web,Barranquilla,08001,Belleza,Smartphone,1125329,2,55,,medio,2026-05-20
+P00596,C0391,2026-03-19,Tienda,Barranquilla,08001,hogar,Muñeca,1394832,3,35,c0391gmail.com,Bajo,2027-03-01
+P00290,C0251,2025-05-09,App,Bogota,11001,belleza,Camiseta,759309,2,72,,ALTO,2026-06-10
+P00272,C0013,2026-06-23,App,barranquilla,08001,Moda,Audífonos BT,1372172,6,48,c0013@hotmail.com,Bajo,2026-06-10
+P00376,C0175,2026-11-26,Tienda,Bucaramanga,68001,Moda,Aspiradora,2385861,1,55,c0175@yahoo.com,bajo,2027-03-01
+P00308,C0084,13/08/2026,Tienda,barranquilla,08001,Belleza,Licuadora,1234750,3,56,c0084@novamarket.co,ALTO,2023-11-30
+P00083,C0203,2/4/2025,Tienda,Cali,76001,Belleza,Crema facial,1645091,2,52,c0203@novamarket.co,bajo,2026-06-10
+P00053,C0015,12/03/2026,Web,MEDELLIN,05001,moda,Audífonos BT,2176609,9999,23,c0015gmail.com,Medio,2026-07-01
+P00292,C0296,24/3/2025,App,Barranquilla,08001,deportes,Muñeca,2025200,4,64,c0296@novamarket.co,ALTO,2026-06-10
+P00371,C0005,22/06/2026,App,BOGOTÁ,68001,Electrónica,Balón fútbol,1982590,5,66,c0005@novamarket.co,bajo,2026-07-15
+P00079,C0050,20/06/2025,App,barranquilla,08001,Moda,Balón fútbol,1280169,-3,39,c0050@hotmail.com,MEDIO,2026-07-15
+P00363,C0176,2/4/2025,App,Medellin,05001,Belleza,Smart TV,1745251,4,29,,bajo,2027-03-01
+P00396,C0047,2025-06-02,Tienda,bogota,11001,Belleza,Balón fútbol,,4,37,c0047@novamarket.co,,2024-06-01
+P00246,C0314,21/01/2026,App,BOGOTÁ,13001,Jugueteria,Mancuernas,838812,3,20,c0314@novamarket.co,Bajo,2026-05-20
+P00493,C0085,12/2/2025,Web,,13001,hogar,Licuadora,789924,6,47,,bajo,2026-06-10
+P00218,C0008,19/7/2025,Web,cali,76001,Deportes,Crema facial,1853932,5,34,c0008@hotmail.com,MEDIO,2026-05-20
+P00299,C0161,2026-05-07,App,Cartagena,13001,Belleza,Aspiradora,1719097,3,73,c0161gmail.com,Alto,2026-07-15
+P00594,C0271,12/6/2025,Tienda,barranquilla,08001,belleza,Licuadora,983098,3,41,,Alto,2026-05-20
+P00120,C0329,2025-03-25,Tienda,Bucaramanga,68001,juguetes,Camiseta,887701,6,44,c0329@hotmail.com,ALTO,2026-07-15
+P00225,C0234,2026-05-20,Tienda,Bogota,11001,Belleza,Zapatillas,1297575,1,46,c0234@novamarket.co,Alto,2026-07-15
+P00507,C0121,2025-02-13,Tienda,medellin,05001,belleza,Audífonos BT,410935,5,62,c0121@yahoo.com,Alto,2026-05-20
+P00086,C0332,2025-08-11,Web,cali,76001,MODA,Muñeca,451105,4,50,c0332@gmail.com,,2026-07-15
+P00405,C0005,15/11/2027,Web,Bogotá D.C.,11001,Belleza,Balón fútbol,1208857,4,37,,Medio,2024-01-15
+P00300,C0293,2025-10-04,Tienda,Medellín,05001,Belleza,Licuadora,507692,-3,45,,ALTO,2026-07-15
+P00478,C0091,2025-12-24,Web,CARTAGENA,13001,moda,Crema facial,1416866,5,45,c0091@hotmail.com,MEDIO,2026-05-20
+P00560,C0135,2026-09-11,Tienda,barranquilla,08001,hogar,Zapatillas,206446,3,62,c0135@hotmail.com,bajo,2026-07-01
+P00500,C0301,21/3/2026,App,bucaramanga,68001,deportes,Aspiradora,,5,35,c0301@novamarket.co,Bajo,2026-05-20
+P00214,C0089,24/4/2025,App,B/quilla,08001,electronica,Audífonos BT,2023728,1,39,c0089@yahoo.com,Bajo,2026-07-15
+P00226,C0047,2025-12-24,Tienda,Bucaramanga,68001,Belleza,Smartphone,-818800,4,63,c0047@gmail.com,medio,2026-06-10
+P00381,C0124,2026-06-01,Tienda,barranquilla,08001,HOGAR,Perfume,1942987,6,67,c0124@yahoo.com,Medio,2026-07-01
+P00394,C0068,8/7/2025,App,Bogotá,11001,MODA,Audífonos BT,602715,3,56,c0068@novamarket.co,Alto,2026-06-10
+P00008,C0225,22/05/2025,App,CARTAGENA,13001,Moda,Mancuernas,586835,1,21,c0225@novamarket.co,Alto,2026-07-15
+P00105,C0171,23/12/2026,App,CARTAGENA,13001,moda,Aspiradora,2435950,3,62,c0171@yahoo.com,bajo,2026-05-20
+P00207,C0353,2025-02-17,Tienda,barranquilla,08001,ELECTRONICA,Perfume,1404177,4,29,c0353@yahoo.com,MEDIO,2026-07-15
+P00380,C0186,2026-10-14,App,Bucaramanga,68001,hogar,Smartphone,2106525,1,48,,ALTO,2026-06-10
+P00286,C0322,22/05/2025,Tienda,Medellín,11001,Deportes,Camiseta,1517391,3,24,c0322@yahoo.com,MEDIO,2026-06-10
+P00599,C0391,22/11/2026,App,Cali,76001,Juguetería,Audífonos BT,2109590,-1,27,,,2026-07-15
+P00064,C0231,00/00/2026,Web,Cali,76001,Moda,Smartphone,-946658,1,59,,Alto,2026-07-15
+P00461,C0265,20/9/2025,Web,Cali,76001,juguetes,Crema facial,571693,3,40,c0265@novamarket.co,Bajo,2026-06-10
+P00535,C0302,2026-08-24,App,cali,76001,hogar,Mancuernas,1910526,5,200,c0302@novamarket.co,medio,2026-05-20
+P00132,C0170,31/04/2026,Web,Bogotá,68001,deportes,Cafetera,966083,3,29,c0170@hotmail.com,medio,2026-07-15
+P00162,C0041,2026-09-18,Web,barranquilla,08001,deportes,Crema facial,2451967,1,-18,,medio,2026-05-20
+P00395,C0135,31/04/2026,App,Bucaramanga,68001,Deportes,Perfume,1263300,5,27,,ALTO,2024-01-15
+P00592,C0174,07/04/2026,Tienda,bucaramanga,68001,Electronica,Zapatillas,862627,6,41,c0174@gmail.com,alto,2026-07-15
+P00539,C0097,2026-05-08,Web,Medellin,05001,juguetes,Aspiradora,1951966,1,38,c0097@hotmail.com,Bajo,2026-07-15
+P00033,C0353,05/11/2025,Tienda,CARTAGENA,13001,belleza,Perfume,191882,3,58,c0353@hotmail.com,Medio,2023-11-30
+P00174,C0359,05/11/2026,Web,BOGOTÁ,11001,belleza,Mancuernas,714571,4,-6,c0359@hotmail.com,alto,2026-06-10
+P00019,C0156,2026-02-27,Tienda,Cali,76001,belleza,Cafetera,1113767,4,68,c0156@novamarket.co,bajo,2026-07-01
+P00139,C0246,01/12/2026,Tienda,Cartagena,11001,Moda,Crema facial,,2,28,c0246@gmail.com,Alto,2026-07-15
+P00142,C0078,2025-08-10,App,Bucaramanga,68001,Jugueteria,Smart TV,,4,44,c0078@yahoo.com,Bajo,2026-07-01
+P00590,C0072,2026-06-07,Tienda,CALI,76001,deportes,Audífonos BT,1981567,2,29,,Alto,2026-05-20
+P00314,C0378,14/11/2026,App,,13001,juguetes,Perfume,2339173,4,21,c0378@novamarket.co,alto,2026-07-15
+P00484,C0238,15/11/2027,Tienda,cali,76001,Belleza,Smart TV,2102700,5,150,c0238@yahoo.com,alto,2026-07-15
+P00348,C0222,2025-02-04,Tienda,barranquilla,08001,Deportes,Camiseta,595969,3,36,c0222@gmail.com,bajo,2026-05-20
+P00523,C0054,25/04/2026,Tienda,MEDELLIN,05001,Electronica,Crema facial,1646494,2,31,c0054@gmail.com,medio,2026-07-15
+P00235,C0048,13/8/2025,Tienda,,08001,Juguetería,Balón fútbol,2310237,5,38,c0048@hotmail.com,Medio,2024-01-15
+P00229,C0029,03/01/2026,Web,,68001,belleza,Crema facial,136843,2,36,c0029@hotmail.com,ALTO,2026-07-15
+P00439,C0296,2025-08-02,Web,B/quilla,08001,belleza,Balón fútbol,670573,1,71,c0296@hotmail.com,,2026-07-15
+P00482,C0241,23/07/2025,App,medellin,05001,Moda,Balón fútbol,2191522,6,18,c0241@hotmail.com,bajo,2026-07-15
+P00471,C0120,3/2/2026,App,Bogotá,11001,deportes,Audífonos BT,,6,150,c0120@gmail.com,Medio,2026-05-20
+P00201,C0001,2026-07-08,Tienda,Cartagena,13001,ELECTRONICA,Smart TV,759532,3,150,c0001gmail.com,ALTO,2026-07-01
+P00457,C0143,2026-02-02,App,bucaramanga,08001,deportes,Mancuernas,463231,5,51,c0143@novamarket.co,Alto,2026-06-10
+P00200,C0277,15/02/2025,App,cali,76001,Belleza,Mancuernas,1149510,5,58,c0277@novamarket.co,MEDIO,2026-06-10
+P00568,C0043,11/11/2025,Tienda,Barranquilla,08001,deportes,Set bloques,2480834,6,51,c0043gmail.com,,2023-11-30
+P00559,C0014,6/7/2025,App,Barranquilla,08001,Hogar,Cafetera,2031640,3,19,c0014@yahoo.com,ALTO,2026-05-20
+P00136,C0031,2026-11-11,Tienda,Bogota,11001,electronica,Licuadora,1765777,5,37,c0031@yahoo.com,alto,2026-07-01
+P00181,C0265,2026-04-05,Tienda,CALI,76001,deportes,Aspiradora,1224851,0,74,,Medio,2026-07-15
+P00069,C0043,24/01/2026,Tienda,bucaramanga,68001,HOGAR,Set bloques,269956,3,56,,ALTO,2026-06-10
+P00224,C0139,11/12/2026,Tienda,Barranquilla,08001,Hogar,Camiseta,2169816,3,74,c0139@gmail.com,Bajo,2026-07-15
+P00029,C0230,4/4/2026,App,Bogotá,11001,hogar,Muñeca,932016,3,65,c0230@yahoo.com,Medio,2026-07-01
+P00004,C0351,24/4/2025,Web,Cali,08001,deportes,Licuadora,2284143,6,59,c0351@yahoo.com,ALTO,2026-07-15
+P00577,C0376,21/06/2026,Tienda,barranquilla,08001,moda,Muñeca,345790,2,30,c0376@novamarket.co,Alto,2026-07-15
+P00329,C0196,2025-05-13,Web,Cali,76001,hogar,Camiseta,,3,61,c0196@novamarket.co,ALTO,2026-05-20
+P00188,C0242,16/11/2025,Web,CARTAGENA,13001,Moda,Mancuernas,1815369,4,51,c0242@gmail.com,,2026-05-20
+P00261,C0255,2026-09-04,Tienda,Medellin,08001,Moda,Smartphone,845722,-3,21,,medio,2026-05-20
+P00101,C0092,24/09/2025,Tienda,Cali,76001,belleza,Licuadora,418689,4,52,c0092@hotmail.com,,2026-06-10
+P00358,C0346,01/02/2025,App,Cartagena,68001,Belleza,Smartphone,,-2,67,c0346gmail.com,,2024-01-15
+P00077,C0026,2026-09-15,App,CALI,76001,hogar,Mancuernas,792097,4,47,c0026@gmail.com,alto,2023-11-30
+P00038,C0036,2026-08-11,App,CALI,76001,Moda,Set bloques,756911,6,27,c0036@novamarket.co,bajo,2026-07-01
+P00583,C0027,2025-12-19,Tienda,Bucaramanga,68001,deportes,Audífonos BT,1878744,4,39,,bajo,2026-07-15
+P00440,C0097,28/8/2026,Tienda,Barranquilla,08001,juguetes,Aspiradora,1904813,4,72,c0097@hotmail.com,ALTO,2026-05-20
+P00011,C0147,2025-01-17,Tienda,B/quilla,08001,juguetes,Perfume,399670,1,52,c0147@gmail.com,Medio,2026-07-01
+P00144,C0007,20/10/2026,Web,bucaramanga,68001,juguetes,Mancuernas,2313446,1,73,c0007@yahoo.com,,2026-07-01
+P00340,C0120,2025-10-26,App,Cartagena,13001,Deportes,Crema facial,2344898,4,55,,Alto,2026-05-20
+P00435,C0288,15/11/2027,App,cali,76001,Belleza,Mancuernas,1063049,3,30,c0288@yahoo.com,Medio,2026-05-20
+P00402,C0370,9/11/2026,Tienda,medellin,05001,Electrónica,Aspiradora,559910,2,19,c0370@gmail.com,bajo,2026-07-01
+P00194,C0352,16/5/2025,Web,medellin,05001,deportes,Perfume,44373,5,41,c0352gmail.com,Alto,2026-07-01
+P00463,C0067,2025-09-16,Tienda,,68001,HOGAR,Crema facial,1201818,0,200,c0067@yahoo.com,ALTO,2026-07-15
+P00557,C0319,2026-09-18,Tienda,B/quilla,08001,MODA,Cafetera,852448,3,28,,Medio,2026-06-10
+P00562,C0373,2026-01-20,App,Bogotá D.C.,11001,hogar,Balón fútbol,1138498,6,32,c0373@yahoo.com,alto,2026-06-10
+P00313,C0045,2026-01-11,App,CALI,76001,Electronica,Camiseta,1760956,0,46,c0045gmail.com,ALTO,2026-07-15
+P00213,C0162,13/10/2025,Web,BOGOTÁ,11001,juguetes,Camiseta,108775,2,74,c0162gmail.com,Medio,2026-07-15
+P00361,C0171,8/5/2025,App,MEDELLIN,05001,electronica,Audífonos BT,2281577,5,32,c0171@gmail.com,bajo,2026-06-10
+P00600,C0013,24/11/2025,App,bucaramanga,13001,Electronica,Balón fútbol,1236291,1,41,c0013@yahoo.com,alto,2026-07-01
+P00169,C0350,2026-13-05,Tienda,Bogota,11001,ELECTRONICA,Audífonos BT,708594,2,150,c0350@hotmail.com,MEDIO,2026-05-20
+P00115,C0031,9/1/2026,Tienda,CARTAGENA,13001,hogar,Perfume,733993,5,61,,Alto,2026-05-20
+P00445,C0299,16/8/2026,App,bogota,11001,Electrónica,Mancuernas,2476177,5,66,,MEDIO,2026-05-20
+P00486,C0047,11/06/2025,Web,bucaramanga,68001,Juguetería,Muñeca,1303843,2,71,c0047@hotmail.com,bajo,2026-06-10
+P00561,C0239,22/02/2025,Tienda,cali,76001,deportes,Mancuernas,175675,1,53,c0239@yahoo.com,,2026-05-20
+P00511,C0092,15/11/2027,Tienda,B/quilla,08001,Electronica,Audífonos BT,2371280,3,70,c0092@yahoo.com,,2026-07-15
+P00374,C0045,11/03/2025,Web,cali,76001,Deportes,Cafetera,1213189,2,66,c0045@gmail.com,bajo,2026-07-15
+P00431,C0176,01/04/2025,App,CALI,76001,Electronica,Zapatillas,647435,0,19,c0176@hotmail.com,Medio,2026-07-01
+P00360,C0335,4/5/2025,App,Cali,76001,electronica,Muñeca,,2,67,c0335@gmail.com,ALTO,2026-07-01
+P00537,C0145,15/05/2026,Web,CARTAGENA,13001,Juguetería,Zapatillas,1336430,1,47,c0145@gmail.com,Alto,2026-06-10
+P00285,C0174,25/03/2026,App,medellin,05001,belleza,Set bloques,1918441,6,40,c0174@yahoo.com,MEDIO,2026-07-01
+P00063,C0258,15/5/2025,Tienda,CARTAGENA,13001,Juguetería,Aspiradora,144667,3,24,c0258@gmail.com,ALTO,2024-01-15
+P00547,C0232,2026-09-09,App,medellin,05001,electronica,Muñeca,2310856,2,69,c0232@yahoo.com,ALTO,2026-07-01
+P00103,C0185,01/07/2026,Web,,11001,moda,Licuadora,231934,5,44,,Medio,2026-07-01
+P00263,C0104,14/2/2025,Tienda,,76001,Moda,Licuadora,1154569,3,36,c0104@hotmail.com,bajo,2026-07-15
+P00092,C0018,2026-04-10,Tienda,B/quilla,08001,HOGAR,Audífonos BT,1105823,1,36,c0018@novamarket.co,bajo,2026-05-20
+P00464,C0360,2025-12-08,Web,B/quilla,08001,Jugueteria,Crema facial,867667,2,150,c0360@gmail.com,,2027-03-01
+P00068,C0162,2026-07-11,App,cali,76001,deportes,Audífonos BT,489892,1,39,c0162@yahoo.com,medio,2026-05-20
+P00427,C0079,06/12/2026,Tienda,cali,76001,Moda,Mancuernas,615950,2,43,c0079@yahoo.com,Alto,2026-06-10
+P00333,C0350,1/1/2026,App,cali,76001,deportes,Balón fútbol,2457810,4,0,,medio,2026-06-10
+P00322,C0124,19/12/2025,Tienda,cali,76001,Belleza,Aspiradora,660495,-3,25,c0124@gmail.com,bajo,2026-05-20
+P00109,C0374,2026-13-05,Tienda,MEDELLIN,05001,HOGAR,Cafetera,1198264,6,22,c0374@gmail.com,Alto,2026-07-01
+P00525,C0197,28/10/2025,App,cali,76001,Jugueteria,Camiseta,44986,5,51,c0197@hotmail.com,alto,2026-07-15
+P00143,C0062,13/2/2025,Web,Barranquilla,08001,Hogar,Camiseta,1067087,4,70,c0062@novamarket.co,alto,2026-07-15
+P00112,C0192,02/10/2026,Tienda,Bucaramanga,68001,HOGAR,Smartphone,476598,6,29,c0192@hotmail.com,medio,2026-07-15
+P00438,C0276,28/10/2025,Web,Bogotá,11001,Electrónica,Set bloques,670362,4,28,c0276@gmail.com,Medio,2026-07-01
+P00366,C0374,25/04/2025,Tienda,bucaramanga,68001,deportes,Smartphone,779910,1,20,,alto,2026-07-15
+P00122,C0271,15/11/2027,App,BOGOTÁ,11001,Jugueteria,Crema facial,1712111,0,200,,ALTO,2026-07-15
+P00497,C0351,2025-12-01,Tienda,Bogotá D.C.,11001,Hogar,Aspiradora,2140600,3,31,c0351@hotmail.com,bajo,2023-11-30
+P00028,C0125,8/2/2025,Tienda,B/quilla,08001,ELECTRONICA,Aspiradora,466872,3,74,c0125@gmail.com,bajo,2026-07-15
+P00140,C0081,30/02/2026,Tienda,Bogotá,11001,deportes,Muñeca,754041,4,71,,medio,2026-06-10
+P00163,C0028,2026-12-04,App,medellin,05001,Jugueteria,Perfume,917787,1,150,c0028@novamarket.co,medio,2026-07-15
+P00095,C0156,16/09/2026,App,Bogota,11001,ELECTRONICA,Balón fútbol,1516938,2,67,c0156@novamarket.co,medio,2026-05-20
+P00483,C0272,15/07/2026,Tienda,Bucaramanga,68001,MODA,Cafetera,1994914,3,36,,ALTO,2027-03-01
+P00135,C0361,2026-10-07,Tienda,bucaramanga,68001,Juguetería,Aspiradora,1362180,1,32,,Alto,2026-05-20
+P00182,C0170,06/01/2025,App,Bucaramanga,68001,HOGAR,Camiseta,-2085912,1,55,c0170@gmail.com,ALTO,2026-06-10
+P00589,C0190,2026-08-05,App,barranquilla,08001,Belleza,Balón fútbol,438824,4,47,c0190@yahoo.com,ALTO,2026-06-10
+P00399,C0023,05/12/2026,Tienda,Medellin,05001,Jugueteria,Crema facial,1580214,5000,51,c0023@gmail.com,,2026-07-01
+P00553,C0360,19/04/2026,Tienda,barranquilla,08001,MODA,Perfume,2263257,3,71,c0360@gmail.com,ALTO,2026-06-10
+P00204,C0037,2025-09-22,Web,CARTAGENA,13001,moda,Aspiradora,318074,2,46,c0037@hotmail.com,MEDIO,2026-07-01
+P00094,C0214,24/10/2025,Tienda,Cartagena,13001,MODA,Licuadora,2120126,6,21,c0214@gmail.com,medio,2026-05-20
+P00262,C0215,13/03/2026,App,MEDELLIN,05001,Hogar,Balón fútbol,1040300,2,55,c0215@hotmail.com,bajo,2026-05-20
+P00400,C0380,15/9/2025,App,barranquilla,08001,Electronica,Cafetera,969614,4,31,,MEDIO,2026-07-01
+P00007,C0186,18/4/2026,Tienda,Cali,76001,Electrónica,Perfume,2042818,5,26,c0186@hotmail.com,MEDIO,2026-05-20
+P00145,C0317,05/04/2025,Web,,13001,MODA,Balón fútbol,1868188,0,70,c0317@yahoo.com,medio,2026-05-20
+P00332,C0001,18/12/2025,App,bogota,11001,belleza,Crema facial,543694,-3,52,c0001@yahoo.com,bajo,2026-05-20
+P00190,C0178,15/12/2026,Web,Cali,76001,Deportes,Set bloques,1026730,1,39,c0178@novamarket.co,bajo,2026-07-15
+P00034,C0305,31/04/2026,Tienda,bucaramanga,68001,MODA,Smartphone,1258673,1,74,c0305@novamarket.co,Bajo,2026-05-20
+P00527,C0205,23/4/2025,App,Bucaramanga,68001,MODA,Zapatillas,,1,51,c0205gmail.com,Bajo,2026-05-20
+P00558,C0365,2025-08-27,Tienda,CARTAGENA,13001,MODA,Crema facial,345585,6,74,c0365@gmail.com,Alto,2026-05-20
+P00026,C0297,18/06/2025,Web,BOGOTÁ,11001,deportes,Perfume,203851,6,62,c0297@gmail.com,Medio,2026-05-20
+P00030,C0099,2027-05-20,Web,medellin,05001,juguetes,Set bloques,2084081,3,18,,Alto,2026-07-15
+P00506,C0306,2025-11-05,Tienda,Bucaramanga,68001,Hogar,Muñeca,,1,67,c0306@yahoo.com,MEDIO,2026-07-01
+P00320,C0206,01/06/2026,Web,medellin,05001,Belleza,Mancuernas,2444666,6,36,c0206@novamarket.co,Alto,2026-07-15
+P00414,C0015,15/11/2027,Tienda,MEDELLIN,05001,HOGAR,Audífonos BT,481543,1,23,c0015@yahoo.com,MEDIO,2023-11-30
+P00114,C0390,20/12/2026,Web,bucaramanga,68001,Electronica,Set bloques,1132585,1,25,c0390gmail.com,Alto,2026-07-01
+P00183,C0369,24/3/2026,Tienda,bucaramanga,68001,Jugueteria,Aspiradora,438858,5,55,c0369gmail.com,medio,2026-06-10
+P00059,C0165,14/07/2026,Tienda,CARTAGENA,13001,Deportes,Smart TV,,6,33,c0165@hotmail.com,Bajo,2026-05-20
+P00127,C0005,00/00/2026,Tienda,Cali,76001,Belleza,Cafetera,1485352,2,52,c0005gmail.com,,2026-06-10
+P00323,C0342,2026-03-16,App,Bucaramanga,68001,Hogar,Crema facial,1462187,3,27,c0342@gmail.com,alto,2026-07-15
+P00481,C0373,5/4/2025,App,BOGOTÁ,11001,Deportes,Perfume,797303,4,63,c0373@gmail.com,bajo,2026-05-20
+P00447,C0185,19/07/2026,App,Medellín,05001,Belleza,Set bloques,1701822,4,74,c0185gmail.com,MEDIO,2026-06-10
+P00470,C0136,09/05/2026,Tienda,medellin,05001,Deportes,Crema facial,1599792,9999,35,c0136@gmail.com,Alto,2026-06-10
+P00088,C0383,2025-09-17,Web,CARTAGENA,13001,Deportes,Smart TV,1705650,1,51,,Alto,2026-07-15
+P00566,C0276,2025-11-18,App,BOGOTÁ,11001,Belleza,Mancuernas,430952,2,57,c0276@yahoo.com,alto,2026-07-15
+P00047,C0316,2026-02-22,Tienda,,08001,deportes,Balón fútbol,261896,5,59,c0316@hotmail.com,Bajo,2023-11-30
+P00155,C0223,21/07/2025,Tienda,Bucaramanga,68001,Moda,Camiseta,62525,2,19,,Bajo,2026-06-10
+P00565,C0007,2025-08-23,Web,BOGOTÁ,68001,Jugueteria,Aspiradora,2389944,5,52,c0007@hotmail.com,medio,2024-01-15
+P00520,C0012,16/3/2025,Web,cali,76001,Deportes,Crema facial,1861269,6,50,c0012@hotmail.com,alto,2026-06-10
+P00091,C0002,2026-10-25,Web,BOGOTÁ,11001,deportes,Aspiradora,630067,3,74,,Medio,2027-03-01
+P00487,C0011,2025-12-09,Tienda,Cartagena,13001,Electronica,Set bloques,75247,6,35,c0011@yahoo.com,,2026-07-15
+P00505,C0304,13/10/2026,Tienda,CARTAGENA,13001,hogar,Perfume,1508341,4,74,c0304@gmail.com,,2026-05-20
+P00128,C0172,2026-08-24,Web,bogota,11001,Electronica,Zapatillas,1058242,2,-8,c0172@yahoo.com,Alto,2026-07-15
+P00249,C0195,21/10/2026,Tienda,bucaramanga,68001,Deportes,Set bloques,964280,5,20,c0195@novamarket.co,MEDIO,2026-05-20
+P00247,C0378,9/3/2026,Tienda,Cartagena,13001,Juguetería,Aspiradora,641347,3,18,c0378@hotmail.com,Alto,2026-06-10
+P00102,C0175,2025-02-09,Tienda,CARTAGENA,13001,belleza,Smart TV,1234150,4,61,c0175@novamarket.co,Alto,2026-05-20
+P00040,C0039,22/11/2025,Tienda,barranquilla,08001,Belleza,Aspiradora,2133068,4,58,c0039@gmail.com,Medio,2026-06-10
+P00388,C0194,2025-05-21,Web,CARTAGENA,13001,MODA,Smart TV,1700365,4,40,c0194@novamarket.co,ALTO,2026-06-10
+P00057,C0059,25/8/2026,Web,Cartagena,13001,Belleza,Balón fútbol,378914,5,66,,medio,2026-05-20
+P00219,C0103,16/6/2025,App,bucaramanga,68001,Electrónica,Smartphone,689206,6,0,c0103@yahoo.com,Alto,2026-07-15
+P00593,C0144,2025-06-17,App,CARTAGENA,13001,Hogar,Crema facial,1437103,6,33,c0144gmail.com,Alto,2026-06-10
+P00149,C0365,2026-05-22,Web,bucaramanga,68001,moda,Set bloques,1174745,5,0,c0365@novamarket.co,alto,2026-05-20
+P00021,C0234,2026-05-25,Tienda,medellin,05001,Jugueteria,Smart TV,1537441,5,53,,MEDIO,2026-07-15
+P00502,C0383,19/06/2026,Web,Bucaramanga,68001,Moda,Set bloques,1419124,2,30,c0383@yahoo.com,medio,2026-07-01
+P00151,C0352,11/11/2025,Web,CARTAGENA,13001,Jugueteria,Aspiradora,2103987,2,48,c0352gmail.com,alto,2026-05-20
+P00297,C0274,2026-01-09,Web,medellin,05001,deportes,Set bloques,2341761,3,74,c0274@novamarket.co,medio,2026-07-15
+P00554,C0400,23/7/2026,App,bucaramanga,68001,deportes,Audífonos BT,282877,6,54,c0400@hotmail.com,,2026-07-15
+P00319,C0175,2026-01-15,App,cali,76001,belleza,Crema facial,1667513,5,32,c0175@yahoo.com,Medio,2023-11-30
+P00265,C0043,28/3/2026,Tienda,Cartagena,13001,Hogar,Crema facial,609070,1,37,c0043@gmail.com,alto,2026-06-10
+P00433,C0222,14/10/2026,App,barranquilla,08001,MODA,Licuadora,966869,3,58,c0222@gmail.com,alto,2026-06-10
+P00312,C0156,00/00/2026,Tienda,CARTAGENA,13001,belleza,Smart TV,232773,2,19,c0156gmail.com,bajo,2026-07-01
+P00522,C0198,13/6/2025,App,bogota,11001,Juguetería,Perfume,1623017,1,70,c0198@yahoo.com,medio,2026-06-10
+P00275,C0072,18/05/2026,App,Cartagena,13001,Jugueteria,Licuadora,,4,35,c0072@hotmail.com,,2026-05-20
+P00474,C0295,21/06/2025,Tienda,Cali,76001,Moda,Cafetera,1874248,2,74,,medio,2026-07-01
+P00141,C0106,09/01/2026,Tienda,MEDELLIN,05001,electronica,Smart TV,1185297,3,52,c0106@yahoo.com,bajo,2026-06-10
+P00513,C0373,21/6/2025,App,medellin,05001,Deportes,Aspiradora,2053907,1,-20,c0373@gmail.com,ALTO,2024-06-01
+P00093,C0032,28/5/2025,App,Cartagena,13001,Deportes,Crema facial,1683286,3,44,c0032@yahoo.com,medio,2026-07-15
+P00258,C0219,8/8/2025,Web,cali,76001,Belleza,Crema facial,1914106,5000,27,,,2024-06-01
+P00563,C0315,2026-12-16,Web,Bogotá D.C.,11001,Hogar,Mancuernas,-2091812,4,39,c0315@yahoo.com,Alto,2023-11-30
+P00228,C0061,18/04/2025,Tienda,,05001,ELECTRONICA,Cafetera,-1365600,4,55,c0061@yahoo.com,bajo,2024-01-15
+P00452,C0066,19/05/2025,Web,CARTAGENA,13001,hogar,Muñeca,1165077,5,21,c0066@gmail.com,Bajo,2027-03-01
+P00552,C0278,2025-09-04,Web,bucaramanga,68001,belleza,Set bloques,963032,1,45,c0278@yahoo.com,alto,2026-07-15
+P00066,C0368,2026-05-24,Web,MEDELLIN,05001,HOGAR,Smartphone,,9999,42,,Medio,2026-06-10
+P00350,C0204,15/04/2026,App,Medellin,05001,HOGAR,Mancuernas,1897689,4,23,c0204gmail.com,Bajo,2026-07-01
+P00448,C0297,26/02/2026,Web,CARTAGENA,13001,deportes,Set bloques,2424133,6,61,c0297@hotmail.com,,2023-11-30
+P00110,C0265,2026-01-23,Tienda,Medellin,05001,Deportes,Smart TV,1579954,6,19,c0265@yahoo.com,Medio,2026-07-01
+P00111,C0188,05/11/2025,Tienda,Cali,76001,deportes,Mancuernas,1534101,3,47,c0188@novamarket.co,MEDIO,2027-03-01
+P00544,C0081,11/3/2026,Tienda,Bogotá,11001,Deportes,Licuadora,1169117,5,72,c0081@novamarket.co,Medio,2026-07-01
+P00496,C0168,05/12/2026,Tienda,cali,76001,deportes,Smart TV,1770018,5,23,c0168@hotmail.com,medio,2026-05-20
+P00159,C0319,04/03/2025,Tienda,cali,76001,Hogar,Smartphone,2406340,4,48,c0319@hotmail.com,medio,2026-07-15
+P00166,C0212,04/12/2026,App,CARTAGENA,13001,MODA,Perfume,1586969,5,61,c0212@hotmail.com,ALTO,2026-05-20
+P00018,C0352,2026-11-24,Web,Bucaramanga,76001,Jugueteria,Muñeca,1803589,3,38,c0352@hotmail.com,MEDIO,2026-06-10
+P00519,C0147,2025-10-08,Tienda,Barranquilla,08001,Moda,Zapatillas,1910893,6,42,c0147@yahoo.com,Medio,2026-07-15
+P00407,C0061,22/08/2026,Tienda,Cali,76001,hogar,Zapatillas,1505035,2,61,c0061@novamarket.co,Medio,2026-07-01
+P00173,C0170,24/11/2025,App,Bogotá,11001,MODA,Licuadora,2056724,4,58,c0170@yahoo.com,,2026-06-10
+P00317,C0090,02/12/2025,App,Cartagena,13001,Electronica,Licuadora,571878,3,-18,c0090gmail.com,Medio,2026-06-10
+P00389,C0325,1/7/2025,Web,Bogotá,11001,HOGAR,Audífonos BT,1862373,4,18,c0325@hotmail.com,Bajo,2026-05-20
+P00598,C0072,5/12/2026,Tienda,Medellín,05001,Hogar,Smart TV,2431214,4,22,c0072@yahoo.com,bajo,2026-06-10
+P00126,C0284,28/08/2025,Web,bucaramanga,68001,belleza,Set bloques,1435267,6,29,c0284@gmail.com,MEDIO,2026-07-15
+P00043,C0012,4/11/2025,App,bucaramanga,68001,Belleza,Mancuernas,1249367,3,32,c0012@hotmail.com,MEDIO,2026-06-10
+P00048,C0125,2025-11-28,Web,Medellin,05001,HOGAR,Balón fútbol,831470,0,72,c0125@novamarket.co,alto,2026-07-01
+P00444,C0095,2025-05-03,Tienda,CARTAGENA,13001,Belleza,Camiseta,1708385,3,27,c0095@yahoo.com,Bajo,2026-07-15
+P00357,C0249,2025-11-09,Tienda,Barranquilla,08001,belleza,Camiseta,2053760,2,56,c0249@yahoo.com,Alto,2026-06-10
+P00244,C0337,1/10/2026,App,Barranquilla,08001,deportes,Smart TV,1517007,2,45,c0337@novamarket.co,bajo,2026-05-20
+P00595,C0249,2025-05-09,App,cali,76001,Belleza,Mancuernas,314101,6,51,c0249@yahoo.com,Bajo,2024-06-01
+P00250,C0336,30/02/2026,App,CARTAGENA,13001,HOGAR,Muñeca,1929686,6,29,,,2024-01-15
+P00020,C0013,26/3/2025,App,Bogota,11001,ELECTRONICA,Smartphone,1445542,4,33,c0013@gmail.com,Bajo,2026-06-10
+P00195,C0215,2025-08-26,Web,bucaramanga,68001,Deportes,Mancuernas,2448492,1,69,c0215@yahoo.com,medio,2026-05-20
+P00530,C0175,21/6/2026,Web,cali,76001,Deportes,Smart TV,1226637,5,28,c0175@novamarket.co,Alto,2026-06-10
+P00334,C0333,2026-04-15,Web,Bucaramanga,68001,belleza,Muñeca,892192,5,29,c0333@gmail.com,Bajo,2026-05-20
+P00390,C0126,8/11/2026,Web,Bucaramanga,68001,Belleza,Camiseta,927122,3,45,,Medio,2026-07-15
+P00437,C0253,24/12/2026,App,Cartagena,13001,deportes,Aspiradora,2418374,3,200,c0253@hotmail.com,Medio,2026-05-20
+P00301,C0345,10/01/2025,Tienda,Barranquilla,08001,moda,Perfume,964453,2,70,c0345@yahoo.com,medio,2026-05-20
+P00354,C0142,2026-07-20,Tienda,Medellín,05001,Deportes,Zapatillas,2277102,4,20,c0142@yahoo.com,Alto,2026-07-15
+P00051,C0212,2026-03-18,App,CALI,76001,moda,Crema facial,648401,6,22,,alto,2026-07-15
+P00276,C0253,2026-13-05,App,CARTAGENA,13001,hogar,Set bloques,2088094,6,36,c0253@hotmail.com,Medio,2026-05-20
+P00197,C0400,06/02/2025,Tienda,CALI,76001,belleza,Licuadora,1539954,2,58,c0400@yahoo.com,alto,2026-05-20
+P00243,C0222,2025-03-01,App,bucaramanga,68001,deportes,Smartphone,539872,2,42,c0222@yahoo.com,Alto,2026-07-15
+P00420,C0394,26/01/2026,App,Barranquilla,76001,Jugueteria,Balón fútbol,1857093,-1,48,c0394gmail.com,medio,2026-07-01
+P00365,C0390,2025-12-16,App,,05001,electronica,Mancuernas,394705,3,37,c0390@yahoo.com,bajo,2024-06-01
+P00597,C0168,2/9/2025,Web,CARTAGENA,13001,belleza,Zapatillas,1577792,4,57,,Alto,2026-06-10
+P00576,C0233,2025-11-12,Tienda,CARTAGENA,13001,Belleza,Smartphone,2206615,1,37,c0233@hotmail.com,ALTO,2026-07-15
+P00256,C0019,22/11/2025,App,Medellín,05001,deportes,Licuadora,1613868,4,-2,c0019@gmail.com,Alto,2026-07-01
+P00017,C0396,2025-07-19,Web,CALI,76001,Jugueteria,Audífonos BT,2194440,5,-20,c0396@novamarket.co,ALTO,2024-06-01
+P00252,C0130,06/05/2026,App,CALI,13001,moda,Perfume,1928153,2,35,c0130@novamarket.co,,2026-07-01
+P00425,C0325,10/11/2025,Web,cali,76001,Electrónica,Smart TV,-237750,4,65,c0325@gmail.com,medio,2026-06-10
+P00304,C0383,2027-05-20,Tienda,CALI,76001,Jugueteria,Zapatillas,1097902,6,66,c0383@yahoo.com,,2026-07-15
+P00315,C0011,27/7/2026,Web,MEDELLIN,05001,Deportes,Zapatillas,1475332,5,63,,alto,2026-07-01
+P00326,C0179,2025-12-11,Tienda,Bogotá,11001,Jugueteria,Crema facial,1195940,5,26,c0179@yahoo.com,ALTO,2026-07-15
+P00245,C0211,2025-09-20,App,,08001,belleza,Licuadora,1211609,2,51,c0211@novamarket.co,Medio,2026-05-20
+P00302,C0299,12/8/2025,App,bucaramanga,68001,MODA,Smartphone,542361,4,34,c0299@gmail.com,Bajo,2024-06-01
+P00201,C0001,2026-07-08,Tienda,Cartagena,13001,ELECTRONICA,Smart TV,759532,3,150,c0001gmail.com,ALTO,2026-07-01
+P00190,C0178,15/12/2026,Web,Cali,76001,Deportes,Set bloques,1026730,1,39,c0178@novamarket.co,bajo,2026-07-15
+P00373,C0024,5/12/2025,App,bucaramanga,68001,deportes,Perfume,1987992,4,72,,Bajo,2027-03-01
+P00362,C0071,27/11/2026,Web,CALI,76001,HOGAR,Audífonos BT,2309672,4,39,c0071@gmail.com,bajo,2026-05-20
+P00451,C0280,2025-07-03,Tienda,medellin,05001,Electronica,Zapatillas,1739921,6,47,c0280@yahoo.com,MEDIO,2026-05-20
+P00199,C0395,2/1/2025,Web,B/quilla,08001,MODA,Camiseta,1642259,3,65,c0395@hotmail.com,alto,2026-07-15
+P00453,C0300,2025-02-03,Web,Bucaramanga,68001,juguetes,Cafetera,570506,2,37,c0300@yahoo.com,Medio,2026-07-01
+P00154,C0197,2026-03-03,App,Bogotá,11001,electronica,Smart TV,488583,6,32,c0197@hotmail.com,MEDIO,2026-05-20
+P00116,C0127,2026-06-19,Tienda,bucaramanga,68001,MODA,Smartphone,1138199,1,65,c0127@novamarket.co,Medio,2026-07-15
+P00006,C0223,25/9/2025,Web,,05001,belleza,Zapatillas,1276589,6,58,c0223gmail.com,alto,2026-06-10
+P00207,C0353,2025-02-17,Tienda,barranquilla,08001,ELECTRONICA,Perfume,1404177,4,29,c0353@yahoo.com,MEDIO,2026-07-15
+P00339,C0392,02/09/2025,Tienda,bogota,11001,Electrónica,Smartphone,2226858,5000,21,c0392@gmail.com,ALTO,2023-11-30
+P00463,C0067,2025-09-16,Tienda,,68001,HOGAR,Crema facial,1201818,0,200,c0067@yahoo.com,ALTO,2026-07-15
+P00217,C0212,2025-02-24,Tienda,barranquilla,08001,juguetes,Audífonos BT,435599,4,-8,c0212gmail.com,Alto,2026-05-20
+P00061,C0066,11/11/2025,Tienda,Bucaramanga,68001,Moda,Crema facial,462953,4,26,c0066@gmail.com,ALTO,2026-07-01
+P00232,C0035,2026-08-26,Tienda,CALI,76001,Electrónica,Muñeca,863284,5,71,c0035@novamarket.co,medio,2026-07-15
+P00548,C0049,7/1/2025,Tienda,medellin,05001,belleza,Camiseta,777971,1,50,c0049@hotmail.com,Alto,2026-06-10
+P00035,C0296,22/05/2026,Tienda,Bogota,11001,Moda,Mancuernas,1592440,1,44,c0296@hotmail.com,Bajo,2026-05-20
+P00378,C0031,14/6/2026,App,Cali,76001,Belleza,Perfume,145627,2,64,c0031@hotmail.com,alto,2026-07-15
+P00476,C0381,27/06/2025,Web,Bogota,11001,Electronica,Licuadora,1294519,4,40,c0381@hotmail.com,Medio,2026-06-10
+P00096,C0105,18/8/2025,Web,CALI,76001,HOGAR,Camiseta,663024,5,36,c0105@yahoo.com,alto,2026-07-15
+P00107,C0038,21/3/2026,App,B/quilla,08001,juguetes,Smartphone,106361,6,52,c0038@gmail.com,,2026-07-15
+P00062,C0355,22/6/2025,App,Cartagena,76001,Belleza,Cafetera,723046,4,33,c0355@yahoo.com,medio,2026-07-15
+P00152,C0216,2026-01-28,App,CALI,76001,ELECTRONICA,Audífonos BT,1465183,1,30,c0216@yahoo.com,bajo,2026-07-15
+P00016,C0212,1/4/2025,Web,Bogota,11001,Deportes,Set bloques,1971626,1,32,c0212@novamarket.co,alto,2026-06-10
+P00009,C0125,2025-04-07,Tienda,barranquilla,08001,deportes,Smartphone,1175556,6,59,c0125@novamarket.co,Alto,2026-05-20
+P00343,C0328,19/11/2025,App,Medellin,05001,deportes,Smart TV,949141,1,22,c0328@hotmail.com,,2024-01-15
+P00098,C0005,00/00/2026,Tienda,medellin,05001,belleza,Muñeca,54093,0,51,c0005@novamarket.co,Alto,2027-03-01
+P00050,C0219,26/2/2026,App,Bucaramanga,68001,Electrónica,Crema facial,383610,5,53,c0219@novamarket.co,bajo,2026-07-01
+P00327,C0174,20/4/2025,Web,Cartagena,13001,belleza,Muñeca,2166895,5,67,c0174@gmail.com,Bajo,2026-07-01
+P00473,C0262,2025-09-26,App,bucaramanga,68001,Juguetería,Muñeca,387936,6,22,c0262@yahoo.com,medio,2026-07-01
+P00108,C0386,04/08/2025,App,CALI,76001,HOGAR,Perfume,1401614,2,43,c0386@hotmail.com,Medio,2027-03-01
+P00156,C0339,2025-07-27,App,,11001,deportes,Licuadora,643055,2,150,c0339@novamarket.co,Medio,2026-06-10
+P00267,C0317,12/06/2025,App,BOGOTÁ,11001,Belleza,Zapatillas,1937335,3,25,c0317@hotmail.com,ALTO,2026-06-10
+P00556,C0167,27/06/2025,App,B/quilla,08001,Hogar,Zapatillas,1625993,3,29,c0167@novamarket.co,Medio,2026-05-20
+P00542,C0242,22/12/2025,Web,BOGOTÁ,11001,Electronica,Aspiradora,-455736,5,62,,ALTO,2026-07-15
+P00538,C0094,15/9/2026,Tienda,bucaramanga,68001,belleza,Audífonos BT,-1443224,0,32,,alto,2026-07-01
+P00037,C0364,15/4/2026,Web,MEDELLIN,05001,Electronica,Aspiradora,1161698,2,63,c0364@yahoo.com,bajo,2026-07-01
+P00074,C0222,21/03/2026,Tienda,Cartagena,13001,Moda,Camiseta,2337824,5,72,c0222gmail.com,Medio,2026-07-01
+P00457,C0143,2026-02-02,App,bucaramanga,08001,deportes,Mancuernas,463231,5,51,c0143@novamarket.co,Alto,2026-06-10
+P00030,C0099,2027-05-20,Web,medellin,05001,juguetes,Set bloques,2084081,3,18,,Alto,2026-07-15
+P00210,C0336,2025-09-04,Tienda,Barranquilla,08001,MODA,Perfume,2057736,1,35,c0336@novamarket.co,ALTO,2026-07-01
+P00580,C0186,9/12/2026,Web,CARTAGENA,13001,deportes,Perfume,735007,5,74,c0186@yahoo.com,bajo,2026-07-01
+P00367,C0326,8/5/2025,Tienda,bucaramanga,68001,Deportes,Balón fútbol,100751,6,19,c0326@novamarket.co,Alto,2024-01-15
+P00097,C0371,2025-01-14,App,bucaramanga,68001,Moda,Camiseta,1373168,5,21,c0371@gmail.com,bajo,2024-01-15
+P00518,C0109,18/9/2026,Tienda,Bogotá D.C.,11001,belleza,Zapatillas,889781,5,67,,ALTO,2026-07-15
+P00356,C0393,2026-13-05,Web,CALI,76001,Juguetería,Cafetera,196891,6,39,c0393@yahoo.com,Alto,2026-07-15
+P00587,C0135,2026-06-24,Tienda,Medellin,05001,Electronica,Camiseta,1894371,4,55,c0135@novamarket.co,MEDIO,2026-07-01
+P00233,C0275,2027-05-20,App,CALI,76001,Belleza,Aspiradora,758869,3,19,c0275@novamarket.co,Bajo,2026-07-15
+P00330,C0193,31/04/2026,App,Bogotá,11001,Juguetería,Cafetera,1884689,1,38,c0193@yahoo.com,Bajo,2026-06-10
+P00525,C0197,28/10/2025,App,cali,76001,Jugueteria,Camiseta,44986,5,51,c0197@hotmail.com,alto,2026-07-15
+P00551,C0180,20/11/2025,App,Bogota,11001,Deportes,Perfume,1471035,2,61,c0180@gmail.com,medio,2026-06-10
+P00574,C0172,2026-06-02,Tienda,,68001,HOGAR,Zapatillas,1398780,9999,44,,bajo,2024-01-15
+P00533,C0010,2025-02-08,Tienda,Bucaramanga,68001,moda,Audífonos BT,1077333,5,30,c0010@yahoo.com,medio,2026-07-15
+P00353,C0266,22/12/2026,Web,Bogota,11001,Deportes,Licuadora,1348086,1,75,,MEDIO,2026-07-15
+P00472,C0293,5/5/2025,Tienda,cali,76001,Moda,Audífonos BT,1523312,4,41,c0293@gmail.com,,2026-05-20
+P00384,C0217,2025-04-02,Tienda,Bucaramanga,13001,MODA,Zapatillas,362540,3,40,c0217@gmail.com,bajo,2026-07-01
+P00531,C0391,17/06/2025,App,Medellin,05001,Jugueteria,Licuadora,760653,5,38,c0391@hotmail.com,ALTO,2026-05-20
+P00296,C0359,18/05/2025,Web,BOGOTÁ,11001,hogar,Smart TV,917050,0,75,c0359@gmail.com,alto,2026-06-10
+P00113,C0288,04/10/2025,Web,CARTAGENA,13001,belleza,Cafetera,773003787,-1,52,c0288@yahoo.com,alto,2026-06-10
+P00202,C0135,15/10/2026,Tienda,bogota,11001,juguetes,Muñeca,722422,3,72,,medio,2026-06-10
+P00337,C0222,2025-10-26,Web,barranquilla,08001,deportes,Zapatillas,2211249,3,52,,bajo,2026-07-15
+P00268,C0191,03/02/2026,App,CALI,76001,ELECTRONICA,Perfume,1700596,3,41,c0191@gmail.com,MEDIO,2026-06-10
+P00432,C0138,26/10/2025,App,CALI,76001,belleza,Cafetera,2025394,4,34,c0138@novamarket.co,bajo,2026-07-15
+P00293,C0325,2026-07-21,App,medellin,05001,hogar,Muñeca,601783,2,33,c0325@yahoo.com,MEDIO,2026-05-20
+P00514,C0132,9/7/2025,Tienda,Bucaramanga,68001,Electronica,Mancuernas,2487372,5,33,,Alto,2026-06-10
+P00375,C0344,08/04/2026,App,Bogota,11001,Deportes,Smart TV,842011,5,56,c0344@yahoo.com,Medio,2027-03-01
+P00167,C0217,27/06/2025,Tienda,Bogotá D.C.,11001,Electrónica,Balón fútbol,1879210,3,27,c0217@novamarket.co,bajo,2026-07-15
+P00060,C0034,20/3/2026,App,Cali,76001,MODA,Aspiradora,2411559,2,55,c0034@novamarket.co,MEDIO,2026-05-20
+P00251,C0351,22/7/2025,App,barranquilla,08001,Hogar,Audífonos BT,243474,6,31,c0351@gmail.com,Alto,2026-07-01
+P00172,C0165,2026-11-27,App,Cartagena,13001,juguetes,Audífonos BT,177697,2,45,c0165gmail.com,Alto,2024-06-01
+P00404,C0202,30/02/2026,App,Bucaramanga,05001,deportes,Licuadora,1324045,1,42,,Medio,2026-06-10
+P00364,C0089,12/02/2026,Web,Cartagena,08001,Moda,Perfume,623639,2,54,c0089@novamarket.co,medio,2026-07-15
+P00351,C0157,19/6/2025,Tienda,Bucaramanga,68001,moda,Balón fútbol,1072913,6,38,c0157@gmail.com,ALTO,2026-07-01
+P00117,C0326,4/1/2025,Web,bucaramanga,68001,Deportes,Smartphone,1244367,3,54,c0326@novamarket.co,medio,2024-01-15
+P00379,C0037,2026-05-05,Web,CARTAGENA,13001,belleza,Licuadora,818695,1,63,c0037@hotmail.com,bajo,2026-06-10
+P00455,C0088,00/00/2026,Tienda,Cartagena,13001,Belleza,Mancuernas,927838,4,24,c0088@hotmail.com,ALTO,2023-11-30
+P00341,C0182,11/10/2026,Web,barranquilla,08001,Hogar,Smart TV,165321,4,59,c0182@hotmail.com,Bajo,2026-07-01
+P00282,C0181,23/6/2026,Web,Medellin,68001,Electronica,Perfume,2411196,0,64,c0181gmail.com,Medio,2026-05-20
+P00131,C0232,2026-02-01,Web,Cartagena,13001,Hogar,Audífonos BT,2078475,2,43,c0232@gmail.com,medio,2026-06-10
+P00003,C0396,2025-09-24,App,Cali,76001,deportes,Cafetera,2087764,3,35,c0396@gmail.com,ALTO,2026-07-01
+P00295,C0255,14/08/2026,App,Bogota,11001,moda,Aspiradora,1847032,6,45,,Bajo,2026-05-20
+P00054,C0081,08/01/2026,App,Cartagena,13001,belleza,Cafetera,1113480,5,45,c0081@yahoo.com,Bajo,2023-11-30
+P00267,C0317,12/06/2025,App,BOGOTÁ,11001,Belleza,Zapatillas,1937335,3,25,c0317@hotmail.com,ALTO,2026-06-10
+P00466,C0335,12/2/2025,Tienda,MEDELLIN,05001,Electrónica,Crema facial,1768172,3,26,c0335@novamarket.co,Alto,2024-01-15
+P00503,C0019,07/05/2025,App,CARTAGENA,13001,belleza,Crema facial,2030107,2,50,c0019@novamarket.co,Medio,2026-07-01
+P00257,C0037,04/02/2025,App,Bogota,68001,Electronica,Perfume,339386,1,70,c0037@hotmail.com,bajo,2024-01-15
+P00058,C0322,20/10/2025,Tienda,Cali,76001,belleza,Smart TV,1484678,1,-12,c0322@gmail.com,Bajo,2026-07-01
+P00215,C0028,2026-07-05,App,,76001,hogar,Zapatillas,,6,46,c0028@gmail.com,medio,2026-06-10
+P00422,C0215,05/01/2026,App,barranquilla,08001,belleza,Crema facial,1432237,5,56,c0215@hotmail.com,medio,2026-06-10
+P00042,C0236,2026-08-04,Web,,76001,MODA,Zapatillas,198547,5,45,c0236@novamarket.co,alto,2026-05-20
+P00203,C0078,2026-12-26,App,,11001,moda,Camiseta,-1104465,1,49,c0078@yahoo.com,Alto,2023-11-30
+P00355,C0235,04/09/2026,Web,B/quilla,08001,Deportes,Balón fútbol,695334,3,22,c0235@hotmail.com,,2027-03-01
+P00532,C0118,14/01/2026,Tienda,CALI,76001,Moda,Set bloques,1820873,3,45,c0118@gmail.com,Alto,2026-05-20
+P00106,C0202,2025-11-10,App,Cali,76001,Juguetería,Muñeca,81887,6,69,c0202@yahoo.com,Alto,2026-07-15
+P00406,C0053,2025-08-06,Web,CARTAGENA,13001,Deportes,Audífonos BT,74642,2,36,c0053@yahoo.com,MEDIO,2026-05-20
+P00418,C0046,3/6/2026,Tienda,Bogota,11001,deportes,Smart TV,1630976,1,-10,c0046@hotmail.com,medio,2026-06-10
+P00072,C0045,26/04/2025,Tienda,bucaramanga,68001,juguetes,Set bloques,2130635,6,68,c0045gmail.com,,2026-05-20
+P00294,C0143,4/4/2025,Web,Bucaramanga,08001,Electrónica,Aspiradora,795053,1,44,c0143@gmail.com,Medio,2026-05-20
+P00409,C0071,2025-06-01,App,Bucaramanga,68001,juguetes,Cafetera,1347488,1,44,c0071@hotmail.com,Bajo,2026-07-15
+P00436,C0303,10/12/2026,Tienda,Barranquilla,08001,Belleza,Cafetera,340679,1,-1,,alto,2026-05-20
+P00082,C0280,26/9/2026,Tienda,cali,76001,belleza,Mancuernas,492776,5,37,c0280@yahoo.com,Medio,2026-07-15
+P00569,C0198,2025-01-13,Tienda,MEDELLIN,13001,Belleza,Zapatillas,253768505,4,75,c0198@hotmail.com,Medio,2026-06-10
+P00426,C0101,2026-11-08,App,Barranquilla,08001,deportes,Aspiradora,1764030,1,68,c0101@novamarket.co,ALTO,2024-01-15
+P00324,C0302,07/12/2025,App,CARTAGENA,13001,belleza,Cafetera,2328623,4,27,c0302@yahoo.com,Alto,2026-05-20
+P00458,C0256,25/08/2025,Web,bucaramanga,68001,Belleza,Licuadora,1824485,4,21,,Bajo,2026-05-20
+P00175,C0284,2026-04-04,Web,Cartagena,68001,Deportes,Set bloques,1874517,3,75,c0284@hotmail.com,Bajo,2026-07-15
+P00508,C0145,2026-02-21,App,bucaramanga,68001,moda,Muñeca,-2426011,5,33,c0145@gmail.com,bajo,2023-11-30
+P00494,C0099,06/05/2025,Tienda,CALI,76001,juguetes,Set bloques,1566885,3,59,,Alto,2026-07-15
+P00321,C0330,11/9/2026,Web,medellin,05001,belleza,Smart TV,,5,64,c0330@novamarket.co,Bajo,2026-05-20
+P00441,C0217,2025-06-14,Web,MEDELLIN,05001,Electronica,Cafetera,1866390,4,19,c0217@novamarket.co,ALTO,2026-06-10
+P00260,C0306,2025-05-02,Web,medellin,05001,moda,Smartphone,1400910,5,57,c0306@hotmail.com,Alto,2026-07-15
+P00176,C0331,11/8/2026,Tienda,Cartagena,11001,HOGAR,Mancuernas,2379577,6,24,,Alto,2026-05-20
+P00022,C0321,15/09/2026,Tienda,MEDELLIN,05001,hogar,Crema facial,,2,62,c0321gmail.com,,2026-07-15
+P00085,C0214,15/09/2025,Tienda,Medellín,05001,Deportes,Perfume,-2193707,5,39,c0214@yahoo.com,Medio,2026-07-15
+P00349,C0129,27/7/2026,App,cali,76001,Moda,Perfume,2495019,6,150,c0129@novamarket.co,Bajo,2026-07-01
+P00442,C0226,2027-05-20,Tienda,CALI,76001,belleza,Balón fútbol,485782,3,49,,bajo,2027-03-01
+P00495,C0170,2025-06-03,Web,CARTAGENA,13001,juguetes,Cafetera,432727,2,69,,medio,2026-07-15
+P00386,C0215,2025-04-09,Tienda,MEDELLIN,05001,Electronica,Licuadora,324684,5,39,c0215@novamarket.co,bajo,2026-06-10
+P00231,C0267,18/6/2026,Tienda,bucaramanga,68001,Juguetería,Perfume,-2448455,1,68,c0267@yahoo.com,bajo,2026-05-20
+P00239,C0233,18/05/2025,Web,Barranquilla,08001,deportes,Aspiradora,716410,5,24,c0233@gmail.com,ALTO,2026-07-01
+P00331,C0127,00/00/2026,Web,Cartagena,13001,Electronica,Smart TV,942663,2,45,c0127@gmail.com,MEDIO,2026-07-01
+P00184,C0118,2025-10-18,Web,barranquilla,68001,juguetes,Smartphone,1519695,5,74,c0118@gmail.com,ALTO,2026-05-20
+P00171,C0178,26/9/2026,App,Barranquilla,08001,Juguetería,Audífonos BT,2215865,1,52,,Bajo,2026-07-01
+P00071,C0294,2026-04-04,App,MEDELLIN,05001,Hogar,Audífonos BT,477329,5,67,c0294@novamarket.co,medio,2026-07-15
+P00454,C0105,5/7/2025,Tienda,,11001,Deportes,Licuadora,1020325,2,52,c0105@yahoo.com,,2026-07-01
+P00130,C0395,10/11/2025,App,medellin,05001,Electrónica,Camiseta,770974,-2,27,c0395gmail.com,Alto,2023-11-30
+P00309,C0189,2025-08-10,App,Cartagena,13001,electronica,Cafetera,572212,2,51,c0189@novamarket.co,MEDIO,2026-07-15
+P00045,C0387,1/8/2025,Tienda,medellin,05001,Moda,Smart TV,49588,4,65,c0387@novamarket.co,alto,2026-07-01
+P00263,C0104,14/2/2025,Tienda,,76001,Moda,Licuadora,1154569,3,36,c0104@hotmail.com,bajo,2026-07-15
+P00185,C0023,2026-05-07,App,bucaramanga,68001,deportes,Mancuernas,2271029,5,26,c0023@gmail.com,Bajo,2026-06-10
+P00489,C0146,5/6/2026,App,Bucaramanga,68001,belleza,Crema facial,1790728,5,43,c0146@yahoo.com,Medio,2026-07-01
+P00278,C0025,18/2/2026,App,CALI,76001,Juguetería,Smart TV,470370,2,73,c0025@novamarket.co,Alto,2024-06-01
+P00346,C0065,16/12/2026,App,CARTAGENA,13001,Deportes,Camiseta,979468,5,51,c0065@novamarket.co,ALTO,2026-06-10
+P00254,C0078,19/2/2026,Tienda,bucaramanga,68001,juguetes,Smart TV,1203176,6,68,c0078gmail.com,alto,2026-05-20
+P00578,C0154,13/11/2025,Tienda,CARTAGENA,13001,Juguetería,Muñeca,2343748,0,31,c0154@novamarket.co,bajo,2026-05-20
+P00385,C0303,24/11/2025,Tienda,CALI,76001,electronica,Set bloques,1629676,4,34,c0303@hotmail.com,bajo,2026-07-01
+P00345,C0270,2025-09-10,App,CARTAGENA,05001,Hogar,Balón fútbol,954816,5,58,,Bajo,2026-05-20
+P00417,C0397,06/06/2026,App,bucaramanga,68001,Juguetería,Camiseta,1575057,1,73,c0397@gmail.com,MEDIO,2026-05-20
+P00076,C0153,08/06/2025,Web,Barranquilla,08001,deportes,Cafetera,860379,6,73,c0153@novamarket.co,medio,2026-06-10
+P00150,C0142,13/07/2026,App,cali,76001,Moda,Camiseta,1917204,5,38,c0142@yahoo.com,bajo,2026-07-01
+P00393,C0003,2026-11-23,Tienda,cali,76001,Electronica,Smartphone,1863651,2,48,c0003@gmail.com,ALTO,2026-07-15
+P00490,C0251,7/12/2026,Tienda,Cartagena,13001,Deportes,Audífonos BT,641279,3,20,c0251@yahoo.com,medio,2026-07-01
+P00240,C0281,2026-06-18,Tienda,medellin,05001,belleza,Smart TV,1424520,6,60,c0281@yahoo.com,Alto,2026-07-15
+P00498,C0169,21/10/2026,App,BOGOTÁ,11001,electronica,Audífonos BT,698254,1,63,c0169@gmail.com,medio,2026-06-10
+P00206,C0022,18/6/2025,Tienda,CARTAGENA,13001,Electronica,Camiseta,242133,5000,59,c0022@gmail.com,medio,2026-06-10
+P00298,C0171,15/11/2025,App,bucaramanga,68001,HOGAR,Set bloques,179923,6,65,c0171@gmail.com,ALTO,2026-05-20
+P00090,C0278,28/11/2025,Web,Bogotá,11001,moda,Camiseta,1918082,6,41,c0278@yahoo.com,ALTO,2026-07-01
+P00209,C0268,2027-05-20,Web,,68001,Hogar,Balón fútbol,1221145,5,42,c0268@novamarket.co,Medio,2024-01-15
+P00178,C0276,2026-11-25,App,MEDELLIN,05001,Belleza,Audífonos BT,1584592,5,55,,bajo,2026-05-20
+P00328,C0385,2025-08-28,Tienda,B/quilla,08001,Juguetería,Audífonos BT,1970091,6,55,c0385@novamarket.co,Alto,2026-05-20
+P00573,C0227,2025-07-13,Tienda,Cartagena,13001,Hogar,Perfume,-123738,2,34,c0227@hotmail.com,Medio,2026-07-01
+P00165,C0025,13/05/2025,App,CARTAGENA,13001,Juguetería,Perfume,446521,1,56,c0025@yahoo.com,medio,2026-07-01
+P00075,C0304,21/8/2025,App,Cartagena,13001,Jugueteria,Aspiradora,117368,-3,67,c0304@yahoo.com,MEDIO,2026-07-15
+P00546,C0168,16/10/2025,Web,barranquilla,08001,ELECTRONICA,Muñeca,1988574,1,20,c0168gmail.com,bajo,2026-07-15
+P00283,C0195,15/5/2026,Web,Barranquilla,08001,Moda,Cafetera,1306523,3,53,,medio,2026-07-15
+P00372,C0194,14/9/2026,App,Cartagena,13001,Electrónica,Cafetera,1013494,0,25,c0194@hotmail.com,alto,2023-11-30
+P00191,C0349,2026-04-10,App,B/quilla,08001,Moda,Smartphone,1974810,6,38,c0349@gmail.com,alto,2024-01-15
+P00462,C0299,03/06/2025,Web,barranquilla,13001,Moda,Crema facial,361132,6,66,c0299@hotmail.com,Medio,2026-07-15
+P00338,C0039,27/01/2026,Tienda,Medellin,05001,Belleza,Audífonos BT,-1088393,6,71,,bajo,2026-07-15
+P00192,C0244,2026-03-25,Web,CALI,76001,HOGAR,Muñeca,1255013,6,34,c0244gmail.com,Medio,2026-07-15
+P00084,C0052,2025-11-19,Web,barranquilla,08001,Hogar,Zapatillas,1026165,4,30,c0052@novamarket.co,Bajo,2026-07-01
+P00521,C0016,2025-01-24,Web,medellin,05001,Deportes,Smart TV,2432421,1,71,c0016@hotmail.com,ALTO,2026-07-15
+P00242,C0154,2026-13-05,App,CARTAGENA,13001,belleza,Licuadora,35176,4,72,c0154@gmail.com,MEDIO,2026-07-01
+P00421,C0012,14/02/2025,Tienda,bucaramanga,68001,Electronica,Licuadora,1021595,6,44,c0012@novamarket.co,MEDIO,2026-05-20
+P00234,C0321,17/04/2026,Tienda,Cartagena,13001,Juguetería,Aspiradora,1767586,1,23,c0321gmail.com,alto,2026-07-01
+P00189,C0100,1/9/2025,Web,Bogotá D.C.,11001,Juguetería,Muñeca,908954,2,35,c0100@yahoo.com,Medio,2026-05-20
+P00307,C0305,13/02/2026,App,Bucaramanga,13001,deportes,Perfume,2268593,2,21,c0305@gmail.com,ALTO,2024-01-15
+P00516,C0302,2/7/2026,Tienda,B/quilla,08001,Deportes,Crema facial,809312,2,65,c0302@hotmail.com,Medio,2026-05-20
+P00187,C0130,13/3/2025,App,cali,76001,Belleza,Aspiradora,310928,6,24,c0130@novamarket.co,,2024-01-15
+P00147,C0030,18/10/2026,Tienda,Medellín,05001,Belleza,Set bloques,2061413,6,-12,c0030@yahoo.com,MEDIO,2026-06-10
+P00049,C0302,2026-08-21,Web,Cali,13001,Juguetería,Perfume,1198471,5,46,c0302@gmail.com,,2026-07-15
+P00238,C0171,2026-06-13,App,Medellín,05001,Deportes,Licuadora,1178666,6,67,c0171gmail.com,alto,2026-05-20
+P00501,C0061,21/04/2025,Web,CALI,76001,Jugueteria,Licuadora,2296258,1,55,,bajo,2026-07-01
+P00446,C0187,2026-04-22,App,Barranquilla,08001,MODA,Smart TV,2144536,5,35,c0187@gmail.com,Bajo,2026-07-15
+P00529,C0307,17/06/2025,App,barranquilla,08001,ELECTRONICA,Smart TV,499075,5,18,c0307@novamarket.co,MEDIO,2026-07-01
+P00002,C0004,20/11/2026,Tienda,medellin,05001,Moda,Licuadora,255340,5,20,c0004@yahoo.com,Medio,2024-01-15
+P00459,C0056,2025-11-22,Web,bucaramanga,68001,juguetes,Balón fútbol,642450,3,65,c0056@hotmail.com,Alto,2026-05-20
+P00549,C0273,2026-04-09,Web,cali,76001,Juguetería,Crema facial,263843,6,32,c0273@hotmail.com,ALTO,2026-07-15
+P00193,C0315,17/01/2025,Tienda,Bogotá D.C.,11001,MODA,Crema facial,2246831,5,49,c0315@novamarket.co,Bajo,2026-07-15
+P00279,C0145,2025-02-27,Web,CALI,76001,Hogar,Balón fútbol,1265906,5,71,c0145@gmail.com,medio,2026-05-20
+P00335,C0099,2026-03-18,Tienda,Bogotá D.C.,11001,Hogar,Cafetera,106438,6,0,c0099@novamarket.co,Alto,2024-01-15
+P00274,C0309,14/12/2026,Tienda,Cartagena,13001,HOGAR,Aspiradora,933530,3,37,c0309@gmail.com,ALTO,2026-07-15
+P00208,C0001,10/10/2025,App,bucaramanga,68001,Jugueteria,Smart TV,608385,6,70,c0001@yahoo.com,alto,2027-03-01
+P00491,C0165,14/01/2025,Tienda,B/quilla,08001,Belleza,Licuadora,1752650,1,65,c0165gmail.com,medio,2026-07-15
+P00289,C0339,01/10/2026,Tienda,Medellin,05001,Electrónica,Aspiradora,299461,5,47,c0339@yahoo.com,ALTO,2026-06-10
+P00288,C0244,04/07/2026,App,Cartagena,13001,deportes,Mancuernas,891618,9999,26,c0244@gmail.com,alto,2026-06-10
+P00543,C0089,2026-01-24,Web,Medellin,05001,hogar,Licuadora,89501,4,71,c0089@gmail.com,Bajo,2026-07-01
+P00046,C0332,24/10/2026,Web,bogota,11001,Deportes,Camiseta,2366460,4,33,,ALTO,2026-07-15
+P00014,C0140,2025-11-09,Tienda,cali,76001,belleza,Zapatillas,639036,1,45,,ALTO,2026-06-10
+P00180,C0119,18/10/2026,Tienda,BOGOTÁ,76001,Jugueteria,Smartphone,2295986,1,38,c0119@novamarket.co,ALTO,2026-06-10
+P00423,C0346,2025-06-07,App,barranquilla,13001,HOGAR,Cafetera,2424102,2,30,c0346@hotmail.com,Bajo,2026-05-20
+P00477,C0038,19/10/2025,Tienda,bucaramanga,68001,belleza,Perfume,733888,2,64,c0038@gmail.com,medio,2026-07-15
+P00443,C0019,21/06/2025,App,CARTAGENA,13001,Moda,Mancuernas,1793821,1,70,c0019gmail.com,MEDIO,2026-06-10
+P00510,C0083,12/09/2026,App,Cali,76001,Deportes,Cafetera,2400404,1,34,,alto,2027-03-01
+P00039,C0398,2025-09-15,App,Barranquilla,08001,deportes,Muñeca,2452333,1,55,,ALTO,2026-07-01
+P00031,C0053,2026-02-08,Tienda,Bogotá D.C.,11001,Moda,Audífonos BT,2353543,1,22,c0053@hotmail.com,ALTO,2026-07-01
+P00387,C0064,2026-08-19,App,MEDELLIN,05001,electronica,Perfume,2165515,5,21,c0064@yahoo.com,Alto,2026-07-01
+P00408,C0399,16/06/2026,Web,Bucaramanga,68001,belleza,Aspiradora,296213,6,23,,ALTO,2026-05-20
+P00067,C0396,31/04/2026,App,CARTAGENA,13001,MODA,Camiseta,1169588,6,26,c0396@yahoo.com,,2026-06-10
+P00572,C0146,2025-12-26,Tienda,CARTAGENA,13001,Hogar,Zapatillas,513959,1,24,,alto,2026-07-01
+P00157,C0255,22/10/2025,Tienda,Medellin,05001,hogar,Perfume,521536977,2,48,,Medio,2026-06-10
+P00065,C0230,15/11/2027,App,Cartagena,05001,HOGAR,Perfume,1326512,3,-14,c0230@yahoo.com,Bajo,2026-07-01
+P00591,C0117,14/04/2026,App,medellin,05001,Deportes,Cafetera,163505,1,63,c0117@hotmail.com,,2026-07-01
+P00024,C0066,2026-05-27,App,Cartagena,13001,Belleza,Licuadora,1080103,5000,38,c0066@yahoo.com,Bajo,2026-05-20
+P00277,C0298,2025-06-06,Web,B/quilla,08001,belleza,Perfume,942408,1,28,,ALTO,2026-05-20
+P00280,C0072,2025-07-23,Web,B/quilla,08001,HOGAR,Set bloques,1864984,2,27,c0072@hotmail.com,,2026-07-15
+P00467,C0358,2026-07-15,Web,B/quilla,08001,ELECTRONICA,Aspiradora,686692,3,23,c0358@yahoo.com,ALTO,2026-07-15
+P00241,C0036,10/09/2026,App,Cartagena,13001,deportes,Cafetera,1655509,2,75,c0036@hotmail.com,medio,2026-05-20
+P00089,C0060,7/12/2025,Web,Bucaramanga,68001,Jugueteria,Smart TV,1141779,4,53,c0060@gmail.com,,2026-06-10
+P00116,C0127,2026-06-19,Tienda,bucaramanga,68001,MODA,Smartphone,1138199,1,65,c0127@novamarket.co,Medio,2026-07-15
+P00015,C0039,2026-10-24,Tienda,Bucaramanga,68001,juguetes,Camiseta,331702,1,31,c0039@novamarket.co,bajo,2026-07-01
+P00179,C0069,24/12/2025,Web,B/quilla,08001,Juguetería,Muñeca,2122235,5,66,c0069@hotmail.com,Bajo,2026-07-15
+P00488,C0011,10/07/2026,App,Bogotá D.C.,11001,belleza,Balón fútbol,2150368,4,19,c0011@gmail.com,ALTO,2026-07-15
+P00043,C0012,4/11/2025,App,bucaramanga,68001,Belleza,Mancuernas,1249367,3,32,c0012@hotmail.com,MEDIO,2026-06-10
+P00124,C0159,11/01/2025,Tienda,Bucaramanga,68001,Belleza,Camiseta,2383245,6,41,c0159@novamarket.co,Medio,2026-06-10
+P00210,C0336,2025-09-04,Tienda,Barranquilla,08001,MODA,Perfume,2057736,1,35,c0336@novamarket.co,ALTO,2026-07-01
+P00468,C0273,22/12/2026,Tienda,,11001,electronica,Aspiradora,2028456,1,71,c0273@gmail.com,medio,2026-05-20
+P00270,C0336,12/03/2025,Tienda,bucaramanga,68001,juguetes,Cafetera,770645,3,34,c0336@novamarket.co,Alto,2026-07-01
+P00146,C0138,25/3/2026,Tienda,bucaramanga,68001,Deportes,Aspiradora,1856248,3,50,,Bajo,2026-07-01
+P00310,C0152,2026-03-26,Tienda,Cartagena,13001,Juguetería,Zapatillas,1041353,6,34,c0152@gmail.com,Bajo,2024-06-01
+P00123,C0043,2025-01-08,Web,Bucaramanga,68001,Juguetería,Smart TV,1347930,6,59,,Medio,2026-06-10
+P00036,C0130,15/5/2025,App,Cali,76001,Juguetería,Muñeca,,5,66,c0130@gmail.com,Bajo,2026-07-01
+P00305,C0134,2025-05-06,Tienda,medellin,05001,Deportes,Cafetera,2472214,4,72,,MEDIO,2026-07-01
+P00023,C0395,2026-07-16,Tienda,Cartagena,13001,deportes,Audífonos BT,757052,4,65,c0395@hotmail.com,ALTO,2026-07-15
+P00428,C0364,2025-10-13,App,Medellín,05001,belleza,Aspiradora,410247,1,0,,Alto,2026-05-20
+P00287,C0392,13/12/2026,Tienda,bogota,11001,deportes,Aspiradora,218025714,6,37,,medio,2026-07-15
+P00078,C0254,9/9/2026,App,CARTAGENA,11001,Deportes,Set bloques,923957,1,54,c0254@novamarket.co,Medio,2027-03-01
+P00382,C0012,18/7/2025,Tienda,CARTAGENA,13001,Juguetería,Smartphone,2499886,3,24,c0012@hotmail.com,medio,2024-06-01
+P00434,C0093,2026-04-18,Tienda,CALI,76001,Electronica,Muñeca,939331,0,150,c0093gmail.com,bajo,2026-06-10
+P00196,C0250,01/06/2026,Web,CALI,76001,Deportes,Perfume,164190,4,24,c0250@novamarket.co,bajo,2026-07-01
+P00221,C0202,10/3/2025,Web,Bucaramanga,68001,Belleza,Smartphone,1438653,3,39,,Alto,2026-07-01
+P00377,C0005,28/5/2025,App,CARTAGENA,13001,Moda,Cafetera,1147625,2,72,c0005@novamarket.co,bajo,2026-07-15
+P00055,C0109,01/07/2025,Web,MEDELLIN,05001,deportes,Camiseta,959816,5,60,,alto,2026-07-15
+P00100,C0360,2027-05-20,Web,Medellín,05001,MODA,Aspiradora,2238556,2,73,c0360@novamarket.co,MEDIO,2026-06-10
+P00164,C0055,19/11/2026,Web,cali,76001,Deportes,Cafetera,1796218,-3,71,,medio,2024-06-01
+P00391,C0151,01/02/2026,App,,76001,Deportes,Set bloques,1296090,4,72,c0151@yahoo.com,Alto,2026-06-10
+P00456,C0018,05/11/2025,Tienda,,68001,hogar,Perfume,703107,3,73,c0018@yahoo.com,alto,2026-07-01
+P00416,C0321,10/06/2025,App,Bogota,11001,Belleza,Smart TV,415202,5,56,c0321@novamarket.co,ALTO,2024-06-01
+P00585,C0125,4/11/2026,Web,Bogota,11001,Hogar,Aspiradora,-38968,3,57,c0125@yahoo.com,Alto,2026-06-10
+P00281,C0022,2026-01-03,Web,,05001,Juguetería,Cafetera,336563515,1,68,c0022@hotmail.com,MEDIO,2026-05-20
+P00012,C0207,2026-08-11,App,Bogotá D.C.,11001,Juguetería,Smartphone,1465426,3,63,c0207gmail.com,,2026-06-10
+P00052,C0182,08/10/2026,Tienda,bucaramanga,68001,MODA,Set bloques,272447,2,32,c0182@novamarket.co,Bajo,2026-05-20
+P00032,C0398,6/4/2025,App,CARTAGENA,13001,Jugueteria,Set bloques,1558253,6,66,c0398gmail.com,,2023-11-30
+P00001,C0328,21/12/2025,App,Bogotá,11001,HOGAR,Licuadora,1855559,5,19,c0328gmail.com,bajo,2026-05-20
+P00110,C0265,2026-01-23,Tienda,Medellin,05001,Deportes,Smart TV,1579954,6,19,c0265@yahoo.com,Medio,2026-07-01
+P00080,C0363,17/3/2026,App,CARTAGENA,76001,Belleza,Smartphone,779579,6,56,c0363@hotmail.com,ALTO,2026-07-01
+P00255,C0206,23/11/2025,Tienda,Bogotá,11001,Moda,Aspiradora,1904726,2,20,c0206@novamarket.co,medio,2026-07-01
+P00293,C0325,2026-07-21,App,medellin,05001,hogar,Muñeca,601783,2,33,c0325@yahoo.com,MEDIO,2026-05-20
+P00575,C0289,16/11/2025,App,bogota,11001,HOGAR,Audífonos BT,-1370773,4,59,c0289@yahoo.com,medio,2026-07-01
+P00492,C0205,20/09/2026,Tienda,BOGOTÁ,11001,belleza,Zapatillas,1543525,6,36,c0205gmail.com,bajo,2026-07-01
+P00504,C0244,06/05/2026,App,medellin,05001,Deportes,Crema facial,274963,1,48,c0244@gmail.com,Bajo,2026-07-15
+P00170,C0038,17/10/2025,App,bucaramanga,68001,Juguetería,Smart TV,411036,4,32,c0038@novamarket.co,Bajo,2027-03-01
+P00401,C0152,2025-09-04,Web,bucaramanga,68001,Electronica,Set bloques,1604444,3,35,,alto,2026-05-20
+P00469,C0084,26/11/2026,App,barranquilla,08001,Hogar,Set bloques,,2,36,c0084@novamarket.co,,2026-05-20
+P00336,C0382,00/00/2026,Tienda,Bogota,11001,HOGAR,Perfume,491751,6,57,c0382@yahoo.com,Bajo,2026-05-20
+P00398,C0108,24/05/2026,App,CARTAGENA,13001,Belleza,Audífonos BT,2421301,2,46,,bajo,2026-07-01
+P00512,C0188,24/09/2025,Web,Bogotá D.C.,11001,MODA,Set bloques,1363730,3,46,c0188@gmail.com,Medio,2026-07-01
+P00212,C0191,05/09/2025,App,B/quilla,08001,Juguetería,Mancuernas,546611,6,46,c0191@gmail.com,,2026-07-01
+P00342,C0030,2026-06-06,Web,Medellín,05001,HOGAR,Balón fútbol,863757,6,47,c0030@novamarket.co,Bajo,2026-06-10
+P00186,C0267,14/4/2026,Web,bogota,11001,moda,Crema facial,399625,3,52,c0267@novamarket.co,medio,2026-07-15
+P00222,C0336,2026-03-25,Tienda,Cartagena,13001,Belleza,Camiseta,2101213,1,74,c0336@novamarket.co,Alto,2024-06-01
+P00013,C0038,2026-11-04,Tienda,Cartagena,13001,Moda,Balón fútbol,723194,5,57,c0038@gmail.com,Medio,2026-07-01
+P00318,C0288,15/04/2025,App,Bogotá D.C.,11001,hogar,Camiseta,740926,5,73,c0288@novamarket.co,Bajo,2026-07-15
+P00025,C0115,20/10/2025,Web,Bucaramanga,68001,Electronica,Balón fútbol,1559019,4,54,c0115@novamarket.co,Alto,2026-06-10
+P00524,C0359,15/12/2026,Web,cali,05001,HOGAR,Set bloques,564239,3,37,,Alto,2026-05-20
+P00223,C0316,2026-08-16,Web,cali,76001,Hogar,Muñeca,907764,4,72,c0316@novamarket.co,bajo,2024-01-15
+P00259,C0314,15/09/2026,Web,,08001,Electrónica,Camiseta,1771252,3,69,c0314@hotmail.com,Alto,2026-06-10
+P00581,C0228,03/06/2026,Web,Bogotá,11001,deportes,Camiseta,1471646,3,55,c0228@gmail.com,,2026-05-20
+P00236,C0352,06/03/2026,App,Cartagena,13001,electronica,Audífonos BT,1899857,2,30,c0352@yahoo.com,Medio,2026-05-20
+P00056,C0364,24/05/2026,App,bucaramanga,68001,Moda,Smart TV,1158341,3,72,c0364@yahoo.com,Alto,2024-06-01
+P00475,C0292,2025-03-15,App,Medellin,05001,juguetes,Camiseta,661793,3,44,c0292@yahoo.com,ALTO,2026-07-15
+P00370,C0096,1/6/2025,Tienda,Medellín,05001,hogar,Aspiradora,1110215,1,28,,medio,2026-06-10
+P00311,C0153,21/03/2025,Web,cali,76001,deportes,Crema facial,,5,61,c0153@gmail.com,ALTO,2026-07-15
+P00123,C0043,2025-01-08,Web,Bucaramanga,68001,Juguetería,Smart TV,1347930,6,59,,Medio,2026-06-10
+P00220,C0288,2026-07-27,Tienda,,68001,moda,Cafetera,-1864811,6,58,c0288@novamarket.co,MEDIO,2026-05-20
+P00306,C0299,03/01/2025,Tienda,Bogotá D.C.,11001,Electronica,Smart TV,1697118,1,61,c0299@gmail.com,medio,2026-05-20
+P00584,C0199,11/11/2025,App,BOGOTÁ,11001,Jugueteria,Smartphone,865190,6,30,c0199gmail.com,Bajo,2026-06-10
+P00205,C0323,26/03/2025,App,Bucaramanga,68001,electronica,Cafetera,757551,1,31,c0323gmail.com,ALTO,2026-06-10
+P00211,C0292,20/09/2025,App,Bucaramanga,68001,Belleza,Smart TV,1447761,6,74,c0292@yahoo.com,alto,2026-05-20
