@@ -3,3 +3,7 @@ _to_delete
 .ipynb_checkpoints
 
 NovaMarket_datos_crudos.csv
+# Archivos pesados: no caben en GitHub (limite 100 MiB por archivo)
+S04_PD_Borja_DatasetImputacionInicial.csv
+*.mp4
+*.mp4.zip
