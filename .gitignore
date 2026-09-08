@@ -6,3 +6,6 @@ NovaMarket_datos_crudos.csv
 # Archivos pesados: no caben en GitHub (limite 100 MiB por archivo)
 S04_PD_Borja_DatasetImputacionInicial.csv
 *.mp4.zip
+/S06_PD_Borja_DatasetDepurado.csv
+/S07_PD_Borja_DatasetSinOutliers.csv
+/S08_PD_Grupo05_DatasetEscalado.csv
