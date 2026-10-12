@@ -1,0 +1,8 @@
+categoria,proveedor_principal,bodega_asignada,dias_reposicion,stock_minimo
+Electrónica,TecnoAndina S.A.S.,Bodega Norte,7,120
+Hogar,Distribuidora El Roble,Bodega Centro,14,200
+Moda,Textiles Caribe Ltda.,Bodega Norte,21,350
+Deportes,Deportes del Valle S.A.,Bodega Sur,10,150
+Juguetería,Juguetes Arcoíris,Bodega Centro,30,90
+Papelería,Papeles y Más S.A.S.,Bodega Sur,12,400
+Mascotas,AnimalCare Colombia,Bodega Norte,9,110
